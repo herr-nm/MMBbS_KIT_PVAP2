@@ -99,7 +99,6 @@ Beschreiben Sie die folgenden Metriken / Kennzahlen zum CRM:
 ### Arbeitsauftrag - Gesetz gegen unlauteren Wettbewerb
 
 
-d
 ### AGB-Gesetz
 ### Compliance
 
@@ -228,4 +227,9 @@ Security by Design Auswahl IT-Sicherheitsprodukt unterstützen
 - Zugriffskontrolle
 - Log Management
 - Compliance Reports
-- 
+
+{%
+   include-markdown "inhalte/lizenzhinweis.md"
+   start="<!--include-start-->"
+   end="<!--include-end-->"
+%}

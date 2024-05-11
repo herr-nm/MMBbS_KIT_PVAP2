@@ -1,14 +1,12 @@
-# KIT - Prüfungsvorbereitung - Abschlussprüfung Teil 1
+# KIT - Prüfungsvorbereitung - Abschlussprüfung Teil 2
 
-**Willkommen im KIT PV AP1-Kurs der Kaufleute für IT-System-Management und Kaufleute für Digitalisierungsmanagement an den MMBbS.**
+**Willkommen im KIT PV AP2-Kurs der Kaufleute für IT-System-Management und Kaufleute für Digitalisierungsmanagement an den MMBbS.**
 
 ## Tracking Ihres Fortschrittes
 
 Tracking Ihres Fortschrittes
 
-Dieser Prüfungsvorbereitungskurs der AP1 enthält mit dem verlinkten Prüfungsvorbereitungskurs zum Thema Datenbanken mehr Aufgaben und Lernmaterial, als Sie in den PV-Stunden im Unterricht schaffen werden. Sie müssen individuell priorisieren und auch außerhalb des Unterrichts für die Prüfung (vor allem regelmäßig) lernen. Damit Sie den Überblick behalten, finden Sie hier die Liste der enthaltenen Kompetenzen. Außerdem einen Hinweis zum Thema Habit-Tracking.
-
-[Kompetenzliste (Download)](material/Lernstand.xlsx)
+Dieser Prüfungsvorbereitungskurs der AP2 enthält mit dem verlinkten Prüfungsvorbereitungskurs zum Thema Datenbanken mehr Aufgaben und Lernmaterial, als Sie in den PV-Stunden im Unterricht schaffen werden. Sie müssen individuell priorisieren und auch außerhalb des Unterrichts für die Prüfung (vor allem regelmäßig) lernen. Damit Sie den Überblick behalten, finden Sie hier die Liste der enthaltenen Kompetenzen. Außerdem einen Hinweis zum Thema Habit-Tracking.
 
 ### Habit-Tracking
 

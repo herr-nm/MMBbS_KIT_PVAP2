@@ -134,3 +134,9 @@ Zielsetzung, z.B. Steigerung der Nutzerbindung um 25% innerhalb eines Jahres. Ü
 - **Churn-Rate:** Die Churn-Rate, auch Abwanderungsrate genannt, misst den Prozentsatz der Kunden, die innerhalb eines bestimmten Zeitraums ihre Geschäftsbeziehung zu einem Unternehmen beenden. Sie wird berechnet, indem die Anzahl der Kunden, die in einem bestimmten Zeitraum abgewandert sind, durch die Gesamtkundenanzahl zu Beginn dieses Zeitraums dividiert wird. Eine hohe Churn-Rate kann auf Probleme mit der Kundenzufriedenheit, der Produktqualität oder dem Kundenservice hinweisen.
 - **Nutzeraktivität:** Die Nutzeraktivität ist eine Kennzahl, die angibt, wie aktiv Nutzer innerhalb einer bestimmten Software oder App sind. Diese Aktivität kann durch verschiedene Metriken gemessen werden, wie z.B. Anzahl der Logins, Dauer der Nutzungssitzungen, Häufigkeit der Nutzung bestimmter Funktionen oder Interaktionen innerhalb der App. Die Überwachung der Nutzeraktivität hilft Unternehmen zu verstehen, wie engagiert und interessiert ihre Nutzer sind, und bietet Einblicke in mögliche Verbesserungen oder Anpassungen der Plattform.
 - **Zufriedenheitsquote:** Die Zufriedenheitsquote ist eine Maßzahl, die angibt, welcher Anteil der Kunden sich positiv über ein Produkt, eine Dienstleistung oder das gesamte Unternehmen äußert. Diese Quote wird oft aus Kundenfeedback oder Umfragen gewonnen, wobei Kunden beispielsweise gefragt werden, ob sie mit einem Service "zufrieden" oder "sehr zufrieden" sind. Die Zufriedenheitsquote wird dann als Prozentsatz der positiven Antworten im Verhältnis zur Gesamtzahl der Antworten berechnet.
+
+{%
+   include-markdown "inhalte/lizenzhinweis.md"
+   start="<!--include-start-->"
+   end="<!--include-end-->"
+%}
