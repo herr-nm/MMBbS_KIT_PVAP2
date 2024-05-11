@@ -1,0 +1,46 @@
+site_name: KIT Prüfungsvorbereitung AP2
+
+theme:
+  name: material
+  language: de
+  font: false
+  favicon: bilder/favicon.png
+  logo: bilder/logo.png
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
+
+plugins:
+  - include-markdown
+  - search
+
+extra_css:
+  - 'extra.css'
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+use_directory_urls: false
+
+repo_url: https://github.com/herr-nm/MMBbS_KIT_PVAP2
+
+site_url: https://herr-nm.github.io/MMBbS_KIT_PVAP2
+
+nav:
+    - Informationen zur Kurslizenz: 'index.md'
+    - Aufbau und Inhalt der IHK-Prüfung (AP2): '00_aufbau_und_inhalt.md'
+    - KDM Historische Inhalte: '02_KDM_historischeinhalte.md'
+    - KSM Historische Inhalte: '03_KSM_historischeinhalte.md'
+    - KIT Fachrichtungsübergreifend: '04_KIT_fachrichtungsuebergreifend.md'
+    - KDM Digitalisierungsmanagement: '05_KDM_digitalisierungsmanagement.md'
+    - KSM IT-System-Management: '06_KSM_itsystemmanagement.md'
+    - KIT Kaufmännische Unterstützungsprozesse: '07_KIT_kaufmaennischeunterstuetzungsprozesse.md'
+    - KIT WISO: '08_KIT_wiso.md'
+    - Prüfungstraining: '09_pruefungstraining.md'
+    - Lernpartner, Kursangebote & Material: '10_lernpartner_kursangebote_material.md'
