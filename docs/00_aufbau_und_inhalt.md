@@ -5,7 +5,6 @@
 - Ablauf und Aufbau der AP2
 - Bewertung der AP2
 - Inhalte
-- Themenübersichten vergangener Prüfungen
 
 ## Ablauf und Aufbau der AP2
 
