@@ -99,7 +99,7 @@ Beschreiben Sie die folgenden Metriken / Kennzahlen zum CRM:
 ### Arbeitsauftrag - Gesetz gegen unlauteren Wettbewerb
 
 
-
+d
 ### AGB-Gesetz
 ### Compliance
 
