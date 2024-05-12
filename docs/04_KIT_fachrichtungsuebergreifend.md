@@ -98,8 +98,56 @@ Beschreiben Sie die folgenden Metriken / Kennzahlen zum CRM:
 
 ### Arbeitsauftrag - Gesetz gegen unlauteren Wettbewerb
 
+#### Aufgabe 1
 
-### AGB-Gesetz
+Was ist das Ziel des Gesetzes gegen den unlauteren Wettbewerb (UWG)?
+
+#### Aufgabe 2
+
+Was sind die wesentlichen Inhalte des UWG?
+
+#### Aufgabe 3
+
+Ein Unternehmen bewirbt sein Produkt, ein Shampoo, mit der Aussage "von 90% der Dermatologen empfohlen". Es stellt sich jedoch heraus, dass diese Aussage auf einer Umfrage unter nur zehn Dermatologen basiert, von denen neun das Produkt empfohlen haben. Beurteilen Sie, ob diese Werbung laut UWG als unlauter einzustufen ist.
+
+#### Aufgabe 4
+
+Ein neuer Smartphone-Hersteller bringt ein Produkt auf den Markt und vergleicht seine technischen Spezifikationen direkt mit denen des Marktführers, wobei er behauptet, eine überlegene Akkulaufzeit und bessere Kamerafunktionen zu haben. Ist diese Art von vergleichender Werbung nach dem UWG zulässig?
+
+#### Aufgabe 5
+
+Ein Elektronikgeschäft wirbt großflächig für einen sehr günstigen Fernseher als "Angebot der Woche". Beim Eintreffen der Kunden wird jedoch mitgeteilt, dass der Fernseher bereits ausverkauft ist und nur eine sehr begrenzte Stückzahl verfügbar war. Die Kunden werden stattdessen auf teurere Modelle hingewiesen. Diskutieren Sie, ob diese Praxis nach dem UWG als unlauter betrachtet werden könnte.
+
+#### Aufgabe 6
+
+Ein Influencer postet regelmäßig Bilder von sich selbst, wie er bestimmte Sportgetränke konsumiert, ohne dabei zu erwähnen, dass er von der Herstellerfirma gesponsert wird. Beurteilen Sie die Rechtmäßigkeit dieser Werbepraxis im Hinblick auf das UWG.
+
+#### Aufgabe 7
+
+Ein Telekommunikationsunternehmen sendet unaufgeforderte Werbe-SMS an eine breite Liste von Konsumenten, die nie ihre Zustimmung dazu gegeben haben, Werbematerial zu erhalten. Beurteilen Sie, ob diese Praxis nach dem UWG als unlauter angesehen werden kann.
+
+### Arbeitsauftrag - Allgemeine Geschäftsbedingungen
+
+#### Aufgabe 1
+
+Was sind Allgemeine Geschäftsbedingungen und welche gesetzlichen Regelungen bestehen zu diesen?
+
+#### Aufgabe 2
+
+Welche Inhalte werden typischer Weise in AGB aufgegriffen?
+
+#### Aufgabe 3
+
+Ein Kunde kauft ein Smartphone online, das eine signifikante Verzögerung in der Lieferung erfährt. Die AGB des Verkäufers besagen, dass Kunden das Recht haben, vom Kauf zurückzutreten, wenn die Lieferung mehr als 30 Tage verzögert wird. Der Kunde möchte vom Kauf zurücktreten. Ist der Rücktritt in diesem Fall rechtlich gedeckt?
+
+#### Aufgabe 4
+
+Ein Softwareanbieter schließt in seinen AGB jegliche Haftung für Datenverluste aus, die durch die Nutzung seiner Software entstehen könnten. Ein Nutzer erleidet einen erheblichen Datenverlust und verlangt Schadenersatz. Inwiefern ist der Haftungsausschluss in den AGB wirksam?
+
+#### Aufgabe 5
+
+In den AGB eines Fitnessstudios ist eine Klausel enthalten, die Kunden verpflichtet, bei Kündigung des Vertrags eine "Bearbeitungsgebühr" von 50% der restlichen Vertragslaufzeit zu zahlen. Könnte diese Klausel als unangemessen benachteiligend angesehen werden?
+
 ### Compliance
 
 ## Instrumente zur Datenauswertung nutzen
@@ -209,7 +257,7 @@ Security by Design Auswahl IT-Sicherheitsprodukt unterstützen
 ## Kunden zu IT-Sicherheit beraten
 
 - Privat, Unternehmen, Öffentliche Hand
-- Funtkionale Anforderungen
+- Funktionale Anforderungen
 - Qualitätsabforderungen
 - Rahmenbedingungen (Technologisch Organisatorisch, rechtlich ethisch)
 - Risikoanalyse

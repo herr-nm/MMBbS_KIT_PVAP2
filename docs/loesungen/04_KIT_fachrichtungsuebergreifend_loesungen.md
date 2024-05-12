@@ -135,6 +135,66 @@ Zielsetzung, z.B. Steigerung der Nutzerbindung um 25% innerhalb eines Jahres. Ü
 - **Nutzeraktivität:** Die Nutzeraktivität ist eine Kennzahl, die angibt, wie aktiv Nutzer innerhalb einer bestimmten Software oder App sind. Diese Aktivität kann durch verschiedene Metriken gemessen werden, wie z.B. Anzahl der Logins, Dauer der Nutzungssitzungen, Häufigkeit der Nutzung bestimmter Funktionen oder Interaktionen innerhalb der App. Die Überwachung der Nutzeraktivität hilft Unternehmen zu verstehen, wie engagiert und interessiert ihre Nutzer sind, und bietet Einblicke in mögliche Verbesserungen oder Anpassungen der Plattform.
 - **Zufriedenheitsquote:** Die Zufriedenheitsquote ist eine Maßzahl, die angibt, welcher Anteil der Kunden sich positiv über ein Produkt, eine Dienstleistung oder das gesamte Unternehmen äußert. Diese Quote wird oft aus Kundenfeedback oder Umfragen gewonnen, wobei Kunden beispielsweise gefragt werden, ob sie mit einem Service "zufrieden" oder "sehr zufrieden" sind. Die Zufriedenheitsquote wird dann als Prozentsatz der positiven Antworten im Verhältnis zur Gesamtzahl der Antworten berechnet.
 
+### Lösungshinweise zum Arbeitsauftrag - Gesetz gegen unlauteren Wettbewerb
+
+#### Aufgabe 1
+
+Das Ziel des Gesetzes gegen den unlauteren Wettbewerb (UWG) ist der Schutz der Mitbewerber, Verbraucher, und sonstigen Marktteilnehmer vor unlauteren geschäftlichen Handlungen. Es zielt darauf ab, die Interessen der Allgemeinheit zu schützen und einen unverfälschten Wettbewerb zu gewährleisten.
+
+Der Begriff "unlauter" bezieht sich im Kontext des Gesetzes gegen den unlauteren Wettbewerb (UWG) auf Handlungen im Geschäftsverkehr, die gegen die guten Sitten verstoßen. Solche Handlungen sind typischerweise dadurch gekennzeichnet, dass sie unfair, unehrlich, oder irreführend sind. Unlautere Methoden können zum Beispiel irreführende Werbung, Täuschungen, unzumutbare Belästigungen oder andere geschäftliche Praktiken umfassen, die den freien und fairen Wettbewerb stören oder verzerren.
+
+#### Aufgabe 2
+
+Die wesentlichen Inhalte des UWG umfassen das Verbot unlauterer geschäftlicher Handlungen, die Schädigung des Wettbewerbs betreffen, wie irreführende Werbung, unzumutbare Belästigungen und vergleichende Werbung. Das Gesetz schützt auch vor Herabsetzung oder Verunglimpfung durch Konkurrenten und regelt die Zulässigkeit vergleichender Werbung.
+
+#### Aufgabe 3
+
+Die Werbung ist potenziell irreführend und könnte somit als unlauter eingestuft werden. Nach §5 UWG ist eine geschäftliche Handlung irreführend, wenn sie unwahre Angaben enthält oder sonstige zur Täuschung geeignete Angaben über wesentliche Merkmale der Ware macht. Die Aussage "von 90% der Dermatologen empfohlen", basierend auf einer sehr kleinen und möglicherweise nicht repräsentativen Stichprobe, könnte Konsumenten in die Irre führen, da sie den Eindruck erweckt, eine breite und signifikante Zustimmung unter Dermatologen zu existieren.
+
+#### Aufgabe 4
+
+Vergleichende Werbung ist nach dem UWG grundsätzlich erlaubt, solange sie nicht irreführend ist und sich auf wesentliche, relevante, nachprüfbare und typische Eigenschaften der Waren bezieht (§6 UWG). In diesem Fall wäre die vergleichende Werbung zulässig, sofern die behaupteten Überlegenheiten der Akkulaufzeit und Kamerafunktionen objektiv nachprüfbar und wahr sind. Es darf keine Verwechslungsgefahr mit dem konkurrierenden Produkt bestehen, und es dürfen keine herabsetzenden oder verunglimpfenden Aussagen gemacht werden.
+
+#### Aufgabe 5
+
+Diese Praxis könnte als unlauter angesehen werden, besonders wenn das Angebot bewusst so gestaltet wurde, dass nur eine unzureichende Menge des beworbenen Produkts verfügbar ist, um Kunden in das Geschäft zu locken und dann auf teurere Produkte umzuleiten. Laut §5 UWG könnten solche Lockvogelangebote als irreführende Werbung betrachtet werden, da sie den tatsächlichen Verfügbarkeitsstatus des Produkts falsch darstellen.
+
+#### Aufgabe 6
+
+Diese Praxis stellt eine Form der Schleichwerbung dar und ist nach §6 UWG als unlauter einzustufen. Influencer müssen deutlich machen, wenn sie für das Zeigen oder Erwähnen von Produkten in ihren Beiträgen bezahlt werden oder sonstige Vorteile erhalten. Die Nichtkennzeichnung solcher gesponserter Inhalte könnte die Konsumenten über die kommerzielle Natur des Beitrags täuschen.
+
+#### Aufgabe 7
+
+Das Versenden von unaufgeforderten Werbe-SMS an Konsumenten, die nicht zugestimmt haben, solche Nachrichten zu erhalten, kann nach §7 UWG als unzumutbare Belästigung angesehen werden. Diese Praxis ist typischerweise als unlauter zu betrachten, da sie die Privatsphäre der Empfänger verletzt und zu erheblicher Belästigung führen kann.
+
+### Lösungshinweise zum Arbeitsauftrag - Allgemeine Geschäftsbedingungen
+
+#### Aufgabe 1
+
+Allgemeine Geschäftsbedingungen (AGB) sind vorformulierte Vertragsbedingungen, die ein Vertragspartner (der Verwender) dem anderen Vertragspartner bei Abschluss eines Vertrages stellt. Sie sind dazu gedacht, die Vertragsbedingungen zu standardisieren und damit den Abschluss von Verträgen zu vereinfachen und effizienter zu gestalten.
+
+In Deutschland sind die Regelungen zu AGB hauptsächlich im Bürgerlichen Gesetzbuch (BGB) unter den §§ 305 bis 310 festgelegt. Diese Paragraphen enthalten Vorschriften darüber, wie AGB in den Vertrag einbezogen werden, welche Inhalte zulässig sind und welche Klauseln als unwirksam gelten können, vor allem wenn sie den Vertragspartner des Verwenders unangemessen benachteiligen.
+
+#### Aufgabe 2
+
+- Angaben zum Verwender
+- Anwendungsbereich und Umfang
+- Vertragsgegenstand
+- Fristen und Formerfordernisse
+- Haftungsbeschränkungen
+
+#### Aufgabe 3
+
+§ 323 BGB regelt den Rücktritt wegen Nichterfüllung der Leistung. Wenn der Verkäufer die vereinbarte Lieferzeit um mehr als 30 Tage überschreitet, und dies in den AGB als Rücktrittsgrund aufgeführt ist, kann der Kunde wirksam vom Vertrag zurücktreten.
+
+#### Aufgabe 4
+
+§ 309 Nr. 7b BGB besagt, dass Klauseln, die die Haftung für Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit oder grob fahrlässig verursachte Schäden ausschließen, unwirksam sind. Wenn die Software durch einfache Fahrlässigkeit zu Datenverlust führt, kann der Ausschluss wirksam sein, bei grober Fahrlässigkeit jedoch nicht.
+
+#### Aufgabe 5
+
+§ 307 BGB besagt, dass Bestimmungen in AGB, die den Vertragspartner des Verwenders unangemessen benachteiligen, unwirksam sind. Eine "Bearbeitungsgebühr" von 50% der restlichen Vertragslaufzeit könnte als unangemessen benachteiligend und daher als unwirksam angesehen werden.
+
 {%
    include-markdown "inhalte/lizenzhinweis.md"
    start="<!--include-start-->"
