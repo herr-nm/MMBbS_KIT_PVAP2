@@ -1,6 +1,6 @@
 # KIT Fachrichtungsübergreifende berufsprofilgebende Fertigkeiten, Kenntnisse und Fähigkeiten
 
-![Kapitelbild](bilder/01_kapitelbild.jpg)
+![Kapitelbild](bilder/03_kapitelbild.jpg)
 
 - Kommunikation gestalten
 - Kundenbeziehungen einschätzen
@@ -148,12 +148,33 @@ Ein Softwareanbieter schließt in seinen AGB jegliche Haftung für Datenverluste
 
 In den AGB eines Fitnessstudios ist eine Klausel enthalten, die Kunden verpflichtet, bei Kündigung des Vertrags eine "Bearbeitungsgebühr" von 50% der restlichen Vertragslaufzeit zu zahlen. Könnte diese Klausel als unangemessen benachteiligend angesehen werden?
 
-### Compliance
+### Arbeitsauftrag - Compliance einhalten
 
-## Instrumente zur Datenauswertung nutzen
+#### Aufgabe 1
+
+Was ist in einem Unternehmen hinsichtlich seiner Kunden unter Compliance zu verstehen?
+
+#### Aufgabe 2
+
+*Das E-Commerce-Unternehmen "ShopEasy" verkauft verschiedene Produkte über seine Online-Plattform. Es hat kürzlich seine Geschäftstätigkeit ausgeweitet und eine neue Reihe von elektronischen Geräten hinzugefügt. Nun muss "ShopEasy" sicherstellen, dass es alle Compliance-Anforderungen erfüllt, insbesondere in Bezug auf Datenschutz und Produktsicherheit.*
+
+Sie werden beauftragt, eine Datenschutzrichtlinie zu entwickeln, die den Anforderungen der DSGVO entspricht und sicherzustellen, dass die Mitarbeiter:innen diese Richtlinie korrekt umsetzen. In welchen Schritten würden Sie hierzu vorgehen?
+
+#### Aufgabe 3
+
+*Das E-Commerce-Unternehmen "ShopEasy" verkauft verschiedene Produkte über seine Online-Plattform. Es hat kürzlich seine Geschäftstätigkeit ausgeweitet und eine neue Reihe von elektronischen Geräten hinzugefügt. Nun muss "ShopEasy" sicherstellen, dass es alle Compliance-Anforderungen erfüllt, insbesondere in Bezug auf Datenschutz und Produktsicherheit.*
+
+Sie sollen sicherstellen, dass die neuen elektronischen Geräte den gesetzlichen Produktsicherheitsanforderungen entsprechen und Kunden stets  transparent über die Produktsicherheit oder ggf. hierzu notwendige Rückrufe informiert sind. In welchen Schritten würden Sie hierzu vorgehen?
+
+## Arbeitsauftrag - Instrumente zur Datenauswertung nutzen
 
 ### Präsentationstechniken
+
+
+
 ### Grafische Darstellung
+
+
 
 ## Chancen und Risiken technischer Entwicklungen kennen
 
