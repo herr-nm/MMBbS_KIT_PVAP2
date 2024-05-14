@@ -1,8 +1,8 @@
-# Themeninputs
+# KIT: Themeninputs
 
-![Kapitelbild](bilder/10_kapitelbild.jpg)
+![Kapitelbild](bilder/11_kapitelbild.jpg)
 
-- Themeninputs als Vortrag
+- Themeninputs zu verschiedenen Fachinhalten
 
 {%
    include-markdown "inhalte/lizenzhinweis.md"
