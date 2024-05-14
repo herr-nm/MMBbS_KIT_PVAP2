@@ -170,37 +170,79 @@ Sie sollen sicherstellen, dass die neuen elektronischen Geräte den gesetzlichen
 
 ### Präsentationstechniken
 
-
+@TODO
 
 ### Grafische Darstellung
 
-
+@TODO
 
 ## Chancen und Risiken technischer Entwicklungen kennen
 
 ### Datensicherheit, Datenschutz
+
+@TODO
+
 ### Ausfallsicherheit
+
+@TODO
+
 ### Lebenslanges lernen
+
+@TODO
+
 ### Teilhabe, soziale Stabilität
+
+@TODO
 
 ## Veränderungen von Einsatzfeldern kennen und beurteilen
 
 ### Geräteklassen
-### Vernetzung, Integration, Modularisierung, Zentralisierung vs. Dezentralisierung, Embedded Systems
-### Technologische Trends
 
-#### Smart Grid
-#### IoT, Industrie 4.0
-#### KI, autonome Systeme
-#### Big Data
-#### Cloud
-#### Block Chain, Smart Contracts
-#### Augmented Reality, VR
+@TODO
+
+### Vernetzung, Integration, Modularisierung, Zentralisierung vs. Dezentralisierung, Embedded Systems
+
+@TODO
+
+### Arbeitsauftrag - Technologische Trends einordnen
+
+#### Aufgabe 1
+
+Was verbirgt sich hinter dem Konzept "Smart Grid"? Beschreiben Sie dieses und nennen Sie aktuelle und mögliche zukünftige Einflüsse auf die IT-Branche und auf die Gesellschaft, die sich hieraus ergeben.
+
+#### Aufgabe 2
+
+Was verbirgt sich hinter dem Konzept "IoT" bzw. "Industrie 4.0"? Beschreiben Sie dieses und nennen Sie aktuelle und mögliche zukünftige Einflüsse auf die IT-Branche und auf die Gesellschaft, die sich hieraus ergeben.
+
+#### Aufgabe 3
+
+Was verbirgt sich hinter dem Konzept "KI" bzw. "autonome Systeme"? Beschreiben Sie dieses und nennen Sie aktuelle und mögliche zukünftige Einflüsse auf die IT-Branche und auf die Gesellschaft, die sich hieraus ergeben.
+
+#### Aufgabe 4
+
+Was verbirgt sich hinter dem Konzept "Big Data"? Beschreiben Sie dieses und nennen Sie aktuelle und mögliche zukünftige Einflüsse auf die IT-Branche und auf die Gesellschaft, die sich hieraus ergeben.
+
+#### Aufgabe 5
+
+Was verbirgt sich hinter dem Konzept "Cloud"? Beschreiben Sie dieses und nennen Sie aktuelle und mögliche zukünftige Einflüsse auf die IT-Branche und auf die Gesellschaft, die sich hieraus ergeben.
+
+#### Aufgabe 6
+
+Was verbirgt sich hinter dem Konzept "Block Chain" und was sind "Smart Contracts"? Beschreiben Sie dieses und nennen Sie aktuelle und mögliche zukünftige Einflüsse auf die IT-Branche und auf die Gesellschaft, die sich hieraus ergeben.
+
+#### Aufgabe 7
+
+Was verbirgt sich hinter dem Konzept "Augmented Reality" und was ist "Virtual Reality"? Beschreiben Sie dieses und nennen Sie aktuelle und mögliche zukünftige Einflüsse auf die IT-Branche und auf die Gesellschaft, die sich hieraus ergeben.
 
 ## Fehler erkennen, analysieren und beheben
 
 ### Debuggung, Break Point
+
+@TODO
+
 ### Softwaretests
+
+@TODO
 
 #### Black Box
 #### White Box
@@ -208,23 +250,40 @@ Sie sollen sicherstellen, dass die neuen elektronischen Geräte den gesetzlichen
 #### Extremwertetest
 
 ### Komponententest, Funktionstest, Integrationstest
+
+@TODO
+
 ### Versionsmanagement des Quellcodes
+
+@TODO
 
 ## Alogrithmen formulieren und Programme entwickeln
 
 ### Struktogramm, PAP Pseudocode
+
+@TODO
+
 ### UML Use Case, Klassendiagramm
+
+@TODO
+
 ### Softwareergonomie & Barrierefreiheit
+
+@TODO
 
 ## Datenbanken modellieren und erstellen
 
 ### Arten von Datenbanken unterscheiden
+
+@TODO
 
 #### Relational
 #### Nicht relational
 #### NoSQL Datenbanken
 
 ### Datentypen unterscheiden
+
+@TODO
 
 ### Normalisierung
 ### ER-Diagramme

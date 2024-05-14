@@ -19,6 +19,8 @@ Ihre Erläuterungen sollten inhaltlich korrekt sein, neben dieser Ebene hinterl�
 
 Das Fachgespräch bildet im Regelfall die letzte Prüfungsleistung für die IHK ab. Lediglich eine von Ihnen unter bestimmten Rahmenbedingungen beantragte mündliche Ergänzungsprüfung kann sich hier anschließen. Da es aber im Normalfall die letzte Prüfungsleistung ist, verlassen Sie im Anschluss den Raum. Während Sie im Wartebereich sind, berechnet der Prüfungsausschuss die letzten Prüfungsergebnisse, fertigt die Dokumente für die IHK aus und errechnet Ihre abschließende IHK-Gesamtnote. Anschließend werden Sie herein gebeten und erhalten im Normalfall ein Dokument, welches den IHK-Abschluss mit der Gesamtnote ausweist. Ab diesem Moment - mit Bestehen der letzten Prüfungsleistung - sind Sie kein:e Auszubildende:r mehr.
 
+![Kapitelbild](bilder/10_fachgespraech.jpg)
+
 ## Tipps für das Fachgespräch
 
 1. Schreiben Sie eine gute Dokumentation Ihres Projektes. Dies mag selbstverständlich klingen, aber ist auch für das Fachgespräch sehr wichtig. Die Prüfer:innen bereiten sich anhand der Doku auf das Gespräch vor.
