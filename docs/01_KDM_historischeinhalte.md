@@ -56,9 +56,39 @@
     - SQL-Abfragen zur Anzeige von Kundenlisten und Neuerscheinungen
     - SQL-Abfrage für Leihvorgänge seit einem bestimmten Datum
 
+### KDM AP2 PB1 - 2023 Sommer - Themenübersicht
+
+- Amortisationsrechnung
+    - Berechnung des Stundensatzes
+    - Ermittlung des Angebotspreises
+    - Deckung der Selbstkosten und Gewinn bei Auslastung
+    - Preisdifferenzierung (personell, zeitlich, mengenmäßig)
+    - Psychologische Preisgestaltung
+    - Empfehlung einer Preisstrategie
+- Kosten-, Umsatz- und Gewinnauswertung
+    - Ermittlung von durchschnittlichem Stundenumsatz und Gewinn/Verlust
+    - Erklärung fixer und variabler Kosten
+    - Berechnung der Umsätze ohne Umsatzsteuer
+    - Ursachen und Maßnahmen für unterschiedliche Quartalsumsätze
+    - Ursachen und Marketingmaßnahmen für Umsatzschwankungen an Wochentagen
+    - Gewinnschwelle und Preisuntergrenzen
+- Datenbankmodellierung und SQL
+    - Fremdschlüssel und referenzielle Integrität
+    - Kardinalitäten im Datenmodell
+    - Korrektur der Primärschlüsseldefinition
+    - Erweiterung des Datenmodells zur 3. Normalform
+    - SQL-Abfragen für registrierte Player und Buchungsanzahl
+- Sponsoring und Content-Marketing
+    - Definition und Ziele des Sponsorings
+    - Merkmale und Anforderungen für Sponsoring im E-Sports-Bereich
+    - Zuordnung des Sponsorings im Marketingmix
+    - Content-Marketing und Unterscheidung zum traditionellen Marketing
+    - Begriffe: Content Seeding, Storytelling, Influencer
+    - Entwicklung einer Social-Media-Strategie für ein E-Sports Summer Camp
+
 ## KDM - Teil 2 - Kaufmännische Unterstützungsprozesse
 
-### KDM AP2 PB1 - 2024 Sommer - Themenübersicht
+### KDM AP2 PB2 - 2024 Sommer - Themenübersicht
 
 - Anschaffung und Nutzung von Elektrofahrzeugen
   - Berechnung der aktivierungspflichtigen Anschaffungskosten
@@ -91,7 +121,7 @@
     - Durchführung und Schritte einer ABC-Analyse
     - Handlungsempfehlungen für A-Kunden
 
-### KDM AP2 PB1 - 2023 Winter - Themenübersicht
+### KDM AP2 PB2 - 2023 Winter - Themenübersicht
 
 - Beschaffung und Rechnungsprüfung
     - Zeitpunkt des rechtsgültigen Kaufvertrags
@@ -118,7 +148,11 @@
     - Definition und Ziel von Digital Rights Management (DRM)
     - Unterschied zwischen hartem und weichem Kopierschutz
     - Sicherheiten für Vertraulichkeit, Integrität und Authentizität beim Download von Medien
- 
+
+### KDM AP2 PB2 - 2023 Sommer - Themenübersicht
+
+
+
 {%
    include-markdown "inhalte/lizenzhinweis.md"
    start="<!--include-start-->"
