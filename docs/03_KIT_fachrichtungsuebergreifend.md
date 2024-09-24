@@ -236,9 +236,60 @@ Was verbirgt sich hinter dem Konzept "Augmented Reality" und was ist "Virtual Re
 
 ## Fehler erkennen, analysieren und beheben
 
-### Debuggung, Break Point
+### Arbeitsauftrag - Debugging durchführen und Breakpoints nutzen
 
-@TODO
+#### Aufgabe 1
+
+Unterscheiden Sie semantische und syntaktische Fehler in Programmcodes. Geben Sie jeweils ein kurzes Beispiel an. Sollten Sie hierfür Code-Beispiele geben, nutzen Sie die Python-Syntax hierfür.
+
+#### Aufgabe 2
+
+Ein Unternehmen zahlt seinen Verkäufern Provisionen basierend auf ihrem monatlichen Umsatz. Schreibe ein Python-Programm, das die Provision berechnet. Die Provisionsstaffelung ist wie folgt:
+
+- Für Umsätze bis 5000 Euro gibt es 5% Provision.
+- Für Umsätze von 5001 bis 10.000 Euro gibt es 10% Provision.
+- Für Umsätze über 10.000 Euro gibt es 15% Provision.
+
+Der vorhandene Code enthält einige semantische Fehler. Verwenden Sie den Debugger in Visual Studio Code, um die Fehler zu identifizieren und zu beheben. Im Kurs finden Sie das Informationsmaterial - Anleitung zum Debuggen in Visual Studio Code.
+
+```python
+def berechne_provision(umsatz):
+    if umsatz <= 5000:
+        provision = umsatz * 0.1  # Fehler: Soll 5% sein
+    elif umsatz <= 10000:
+        provision = umsatz * 0.05  # Fehler: Soll 10% sein
+    else:
+        provision = umsatz * 0.2  # Fehler: Soll 15% sein
+    return provision
+
+# Testen des Programms
+umsatz = float(input("Geben Sie den monatlichen Umsatz ein: "))
+provision = berechne_provision(umsatz)
+print(f"Die Provision für einen Umsatz von {umsatz} Euro beträgt {provision} Euro.")
+```
+
+Führen Sie das Debugging des Codes durch, um die semantischen Fehler zu finden.
+
+### Informationsmaterial - Anleitung zum Debuggen in Visual Studio Code
+
+1. Öffnen Sie Visual Studio Code und erstellen Sie eine neue Python-Datei, z.B. provision.py.
+2. Kopieren Sie den angegebenen fehlerhaften Code in die Datei.
+3. Speichern Sie die Datei.
+4. Aktivieren Sie den Debugger:
+   - Klicken Sie dazu auf das Run and Debug-Symbol in der linken Seitenleiste von Visual Studio Code (oder drücken Sie Strg + Shift + D).
+   - Klicken Sie auf Run and Debug und wählen Sie Python als Umgebung aus, falls dies noch nicht geschehen ist.
+5. Setzen Sie Breakpoints:
+   - Setzen Sie Breakpoints, indem Sie auf den linken Rand der Zeilen klicken, die Sie genauer untersuchen möchten (z.B. die Berechnung der Provision).
+6. Starten Sie den Debugging-Prozess:
+   - Klicken Sie auf den grünen Pfeil oben in der Debug-Leiste oder drücken Sie F5, um den Debugging-Prozess zu starten.
+7. Verwenden Sie die Debugging-Tools:
+   - Step Over (F10): Überspringt den aktuellen Funktionsaufruf und führt ihn zu Ende.
+   - Step Into (F11): Tritt in die Funktion ein und zeigt Details an.
+   - Step Out (Shift + F11): Verlässt die aktuelle Funktion und kehrt zum übergeordneten Code zurück.
+8. Überprüfeen Sie die Variablen:
+   - In der linken Seitenleiste findest du den Abschnitt "Variables", wo Sie den aktuellen Zustand der Variablen sehen können.
+9. Korrigieren Sie die Fehler:
+   - Nachdem Sie den Fehler gefunden haben, korrigieren Sie ihn im Code und führen Sie das Debugging erneut durch, um sicherzustellen, dass der Fehler behoben ist.
 
 ### Softwaretests
 
