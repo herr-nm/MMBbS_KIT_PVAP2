@@ -184,7 +184,7 @@ Die TechHome Solutions AG überlegt, für die Beschaffung der neuen Produkte ent
 
 #### Aufgabenteil aa (4 Punkte)
 
-Erläutern Sie, was unter direkter und indirekter Beschaffung verstanden wird. (4 Punkte)
+Erläutern Sie, was unter direkter und indirekter Beschaffung verstanden wird.
 
 #### Aufgabenteil ab (2 Punkte)
 
@@ -220,3 +220,9 @@ Beschreiben Sie die folgenden Sourcing-Strategien kurz und geben Sie jeweils ein
 #### Aufgabenteil bd (2 Punkte)
 
 Die TechHome Solutions AG plant, ihre Beschaffungsprozesse so weit wie möglich zu digitalisieren. Nennen Sie zwei Technologien, die das digitale Beschaffungswesen unterstützen und erklären Sie kurz deren Nutzen für die TechHome Solutions AG.
+
+{%
+   include-markdown "inhalte/lizenzhinweis.md"
+   start="<!--include-start-->"
+   end="<!--include-end-->"
+%}

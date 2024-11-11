@@ -44,7 +44,7 @@ Die Fahrzeuge sollen gemäß AfA-Tabelle über sechs Jahre linear abgeschrieben 
 
 #### Aufgabenteil b
 
-Die neuen Elektrofahrzeuge sollen mit Strom aus betriebseigenen Wallboxen geladen werden. Dazu gibt es zwei Angebote des regionalen Stromversorgers:
+Die neuen Elektrofahrzeuge sollen mit Strom aus betriebseigenen Wallboxen geladen werden. Dazu gibt es drei Angebote des regionalen Stromversorgers:
 
 - Angebot 1:
   - Kauf von zwei Wallboxen mit 22 kW (Twin-Variante, je zwei Ladepunkte)
