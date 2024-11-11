@@ -221,6 +221,8 @@ Beschreiben Sie die folgenden Sourcing-Strategien kurz und geben Sie jeweils ein
 
 Die TechHome Solutions AG plant, ihre Beschaffungsprozesse so weit wie möglich zu digitalisieren. Nennen Sie zwei Technologien, die das digitale Beschaffungswesen unterstützen und erklären Sie kurz deren Nutzen für die TechHome Solutions AG.
 
+
+
 {%
    include-markdown "inhalte/lizenzhinweis.md"
    start="<!--include-start-->"

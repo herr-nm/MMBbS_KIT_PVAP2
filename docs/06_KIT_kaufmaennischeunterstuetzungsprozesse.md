@@ -253,6 +253,80 @@ Erläutern Sie die Schritte zur Durchführung einer ABC-Analyse.
 
 Geben Sie eine Handlungsempfehlung für A-Kunden und begründen Sie diese.
 
+## Probeprüfung Nr. 2 (KSM AP2 PB2)
+
+*In Anlehnung an die IHK AP2 S24*
+
+### Handlungssituation
+
+Die TechHome Solutions AG ist ein führendes Unternehmen im Bereich technologischer Lösungen für Privathaushalte und Unternehmen. Um den wachsenden Anforderungen des Marktes gerecht zu werden und innovative Produkte anzubieten, hat das Unternehmen ein internes Projekt zur Erweiterung seines Angebotsportfolios gestartet. Das Projekt umfasst die Entwicklung und Integration von Smart-Home-Produkten mit Schwerpunkten auf Energiemanagement und Gebäudesicherheit. Ziel ist es, mit diesen neuen Produkten sowohl bestehende als auch neue Kunden zu erreichen und langfristige Wachstumschancen im B2C-Markt zu sichern.
+
+Im Rahmen des Projekts sollen verschiedene wirtschaftliche und technische Herausforderungen bewältigt werden, darunter die Kostenstruktur, die Preisgestaltung, die Marketingstrategien und die rechtlichen Rahmenbedingungen für den Vertrieb. Zudem wird die Entwicklung einer App angestrebt, die eine nahtlose Steuerung der neuen Smart-Home-Produkte ermöglicht. Diese App wird sowohl Administratoren als auch Hausbewohnern verschiedene Kontrollfunktionen bieten.
+
+![TechHome](bilder/05_01_TechHome.png)
+
+### 1. Aufgabe (25 Punkte)
+
+Die TechHome Solutions AG hat einen neuen Matter-fähigen Präsenzmelder auf Funkbasis auf den Markt gebracht. Im ersten Quartal nach Markteinführung ergeben sich folgende Zahlen:
+
+| Monat   | Umsatz (EUR) | Verkauf (Stück) | Gesamtkosten (EUR) |
+| :---    | ---:         | ---:            | ---:               |
+| Januar  | 9.000        | 250             | 9.500              |
+| Februar | 12.700       | 320             | 12.000             |
+| März    | 15.600       | 440             | 14.200             |
+
+Die variablen Kosten pro Stück sowie der Stückpreis sind konstant. Alle eingekauften Präsenzmelder werden verkauft.
+
+#### Aufgabenteil a
+
+#### Aufgabenteil aa (2 Punkte)
+
+Berechnen Sie auf Basis der Werte in der o.g. Tabelle den Verkaufspreis je Stück pro Monat. Der Rechenweg ist anzugeben.
+
+#### Aufgabenteil ab (3 Punkte)
+
+Berechnen Sie auf Basis der Werte in der o.g. Tabelle den die variablen Stückkosten pro Monat. Der Rechenweg ist anzugeben.
+
+#### Aufgabenteil ac (3 Punkte)
+
+Berechnen Sie auf Basis der Werte in der o.g. Tabelle die fixen Gesamtkosten pro Monat. Der Rechenweg ist anzugeben.
+
+#### Aufgabenteil ad (2 Punkte)
+
+Ermitteln Sie auf Basis der Ergebnisse aus aa)-ac) den Deckungsbeitrag pro Stück.
+
+#### Aufgabenteil b
+
+#### Aufgabenteil ba (5 Punkte)
+
+Die TechHome Solutions AG strebt eine Umsatzrendite von 10 % an. Berechnen Sie, ob dieses Ziel im ersten Quartal erreicht wurde (Ergebnis auf zwei Nachkommastellen runden) und schreiben Sie einen Antwortsatz.
+
+#### Aufgabenteil bb (2 Punkte)
+
+Die Geschäftsführung ist mit der Umsatzrendite unzufrieden. Nennen Sie zwei Maßnahmen, welche zur Steigerung der Umsatzrendite in der TechHome Solutions AG durchgeführt werden können.
+
+#### Aufgabenteil c
+
+Um die Marktdurchdringung weiter voranzubringen, soll die Preispolitik im 2. Quartal angepasst werden. Es wird geplant, die Präsenzmelder zur Preisuntergrenze anzubieten. Die TechHome Solutions AG plant einen ABsatz von insgesamt 1.200 Stück bei variablen Stückkosten von 24,50 EUR. Die Fixkosten werden in der Planung mit 1.600,00 EUR je Monat beziffert.
+
+#### Aufgabenteil ca (2 Punkte)
+
+Berechnen Sie die kurzfristige Preisuntergrenze.
+
+#### Aufgabenteil cb (2 Punkte)
+
+Beschreiben Sie den Begriff der kurzfristigen Preisuntergrenze und stellen Sie einen Bezug zum Erfolg eines Unternehmens her.
+
+#### Aufgabenteil cc (2 Punkte)
+
+Berechnen Sie die langfristige Preisuntergrenze.
+
+#### Aufgabenteil cd (2 Punkte)
+
+Beschreiben Sie den Begriff der langfristigen Preisuntergrenze und stellen Sie einen Bezug zum Erfolg eines Unternehmens her.
+
+
+
 {%
    include-markdown "inhalte/lizenzhinweis.md"
    start="<!--include-start-->"
