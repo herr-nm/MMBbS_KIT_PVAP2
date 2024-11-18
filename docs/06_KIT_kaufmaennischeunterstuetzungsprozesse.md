@@ -47,14 +47,14 @@ Die Fahrzeuge sollen gemäß AfA-Tabelle über sechs Jahre linear abgeschrieben 
 Die neuen Elektrofahrzeuge sollen mit Strom aus betriebseigenen Wallboxen geladen werden. Dazu gibt es drei Angebote des regionalen Stromversorgers:
 
 - Angebot 1:
-  - Kauf von zwei Wallboxen mit 22 kW (Twin-Variante, je zwei Ladepunkte)
-  - Kosten: 4.000 EUR pro Box, exklusive Strom
+    - Kauf von zwei Wallboxen mit 22 kW (Twin-Variante, je zwei Ladepunkte)
+    - Kosten: 4.000 EUR pro Box, exklusive Strom
 - Angebot 2: Leasing von zwei Wallboxen mit 22 kW (Twin-Variante, je zwei Ladepunkte)
-  - Leasingrate: 125 EUR pro Monat/Box, inklusive 250 kWh pro Monat/Box
-  - Kaufoption nach Ende der Laufzeit: 300 EUR pro Box
+    - Leasingrate: 125 EUR pro Monat/Box, inklusive 250 kWh pro Monat/Box
+    - Kaufoption nach Ende der Laufzeit: 300 EUR pro Box
 - Angebot 3:
-  - Kauf von drei Wallboxen mit 22 kW (Einzel-Variante mit je einem Ladepunkt)
-  - Kosten: 1.500 EUR je Box, inklusive einmalig 10.000 kWh je Ladepunkt
+    - Kauf von drei Wallboxen mit 22 kW (Einzel-Variante mit je einem Ladepunkt)
+    - Kosten: 1.500 EUR je Box, inklusive einmalig 10.000 kWh je Ladepunkt
 
 Weitere Kosten wie Installation, Genehmigungen und Konfiguration sind bei allen drei Angeboten gleich und können vernachlässigt werden.
 

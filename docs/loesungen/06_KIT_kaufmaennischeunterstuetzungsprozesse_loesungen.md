@@ -99,13 +99,13 @@ Sie erhalten Angebote von verschiedenen Lieferanten und entscheiden sich für Li
 
 #### Aufgabenteil ba (6 Punkte)
 
-- **i. V. (in Vertretung):** Unterschrift erfolgt im Namen und im Auftrag des Unternehmens, durch einen Bevollmächtigten.
-- **i. A. (im Auftrag):** Unterschrift erfolgt im Auftrag ohne eigenständige Vertretungsbefugnis.
-- **ppa. (per procura):** Unterschrift erfolgt durch einen Prokuristen, der weitreichende geschäftliche Vertretungsbefugnisse hat.
+- **i.V. (in Vollmacht):** Unterschrift erfolgt im Namen und im Auftrag des Unternehmens, durch einen Bevollmächtigten.
+- **i.A. (im Auftrag):** Unterschrift erfolgt im Auftrag ohne eigenständige Vertretungsbefugnis.
+- **ppa. (per procura):** Unterschrift erfolgt durch einen Prokuristen, der weitreichende geschäftliche Vertretungsbefugnisse hat (und im Handelsregister eingetragen ist).
 
 #### Aufgabenteil bb (1 Punkt)
 
-Ein Vertrag, der mit i. A. unterschrieben wurde, ist nicht rechtskräftig. Es fehlt die Vollmacht zur verbindlichen Unterschrift.
+Ein Vertrag, der mit i.A. unterschrieben wurde, ist nicht rechtskräftig. Es fehlt die Vollmacht zur verbindlichen Unterschrift.
 
 #### Aufgabenteil c
 
@@ -181,7 +181,7 @@ Einschätzung zur finanziellen Entwicklung:
 
 #### Aufgabenteil e (4 Punkte)
 
-- **Formel:** \(Eigenkapitalrentabilität = \frac{Bereinigter Unternehmensgewinn}{eingesetztes Eigenkapital} * 100\)
+- **Formel:** \(Eigenkapitalrentabilität = \frac{Bereinigter Unternehmensgewinn}{eingesetztes Eigenkapital} * 100 = \frac{190}{4.085} * 100\)
 - **Eigenkapitalrentabilität im Geschäftsjahr** beträgt 6,13 %
 - **Empfehlung an die Gesellschafter:**
   - Eine Eigenkapitalrentabilität von 6,13 % liegt in einem moderaten Bereich. Ob der Gewinn ausgeschüttet oder reinvestiert werden sollte, hängt von den langfristigen Zielen der Gesellschafter und den Wachstumsplänen des Unternehmens ab:
