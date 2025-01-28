@@ -163,13 +163,13 @@ Berechnen Sie bei einem Strompreis von 28 Cent je Kilowattstunde und bei einem P
 
 Berechnen Sie den jährlich anfallenden Strombedarf in Kilowattstunden und die jährlichen Kosten je System.
 
-\(KNX Leistung = 1,4\,\text{W} + 0,9\,\text{W} + 0,3\,\text{W} = 2,6\,\text{W}\)  
-\(KNX Energie = 2,6\,\text{W} * 24\,\text{h} * 365\,\text{Tage} = 22776\,\text{Wh} ≙ 22,78\,\text{kWh}\)  
-\(KNX Kosten pro Jahr = 22,78\,\text{kWh} * 0,28\,\text{EUR/kWh} = 6,38\,\text{EUR}\)
+$$ KNX Leistung = 1,4\,\text{W} + 0,9\,\text{W} + 0,3\,\text{W} = 2,6\,\text{W}$$  
+$$ KNX Energie = 2,6\,\text{W} * 24\,\text{h} * 365\,\text{Tage} = 22776\,\text{Wh} ≙ 22,78\,\text{kWh} $$
+$$ KNX Kosten pro Jahr = 22,78\,\text{kWh} * 0,28\,\text{EUR/kWh} = 6,38\,\text{EUR} $$
 
-\(ZigBee Leistung = 4\,\text{W}\)  
-\(ZigBee Energie = 4\,\text{W} * 24\,\text{h} * 365\,\text{Tage} = 35040\,\text{Wh} ≙ 35,04\,\text{kWh}\)  
-\(ZigBee Kosten pro Jahr = \,\text{kWh} * 0,28\,\text{EUR/kWh} + 8\,\text{AAA-Batterien} * 0,55\,\text{EUR} = 39,44\,\text{EUR}\)
+$$ ZigBee Leistung = 4\,\text{W} $$  
+$$ ZigBee Energie = 4\,\text{W} * 24\,\text{h} * 365\,\text{Tage} = 35040\,\text{Wh} ≙ 35,04\,\text{kWh} $$
+$$ ZigBee Kosten pro Jahr = \,\text{kWh} * 0,28\,\text{EUR/kWh} + 8\,\text{AAA-Batterien} * 0,55\,\text{EUR} = 39,44\,\text{EUR} $$
 
 #### Aufgabenteil eb (3 Punkte)
 
@@ -303,35 +303,34 @@ Bei entsprechender Begründung kann beides korrekt sein:
 
 #### Aufgabenteil aa (4 Punkte)
 
-**Direkte Beschaffung:**
-- **Definition:** Bei der direkten Beschaffung handelt es sich um den Einkauf von Gütern und Dienstleistungen, die unmittelbar in die Herstellung eines Produkts oder in die Bereitstellung einer Dienstleistung einfließen. Diese Güter sind integraler Bestandteil des Produktionsprozesses und werden in der Regel regelmäßig in größeren Mengen beschafft.
-- **Beispiele:** Rohstoffe (z. B. Holz für Möbelproduktion), Bauteile (z. B. Mikroprozessoren für Elektronikprodukte), Halbfertigprodukte und andere Materialien, die zur Fertigung benötigt werden.
-- **Charakteristik:** Eine gut organisierte und zuverlässige direkte Beschaffung ist entscheidend für die Produktionseffizienz und Qualitätssicherung.
+**Direkte Beschaffung**
 
-**Indirekte Beschaffung:**
-- **Definition:** Indirekte Beschaffung bezieht sich auf den Einkauf von Gütern und Dienstleistungen, die nicht direkt in das Endprodukt eingehen, aber für den Betrieb des Unternehmens notwendig sind. Diese Güter und Dienstleistungen unterstützen den Produktionsprozess und den allgemeinen Geschäftsbetrieb.
-- **Beispiele:** Büromaterial, Wartungs- und Reparaturdienstleistungen, IT-Dienstleistungen, Reinigungsmittel, Ausstattung für den Arbeitsplatz.
-- **Charakteristik:** Die indirekte Beschaffung hat oft einen unregelmäßigeren Bedarf und ist weniger mengenintensiv, aber für den reibungslosen Ablauf des Unternehmensbetriebs unverzichtbar.
+- **Definition:** Bei der direkten Beschaffung erfolgt die Bestellung unmittelbar beim Hersteller oder Produzenten der Ware oder Dienstleistung.
+- **Merkmale:**
+  - Es gibt keine Zwischenhändler.
+  - Der Kontakt erfolgt direkt mit dem Lieferanten, der die Ware produziert.
+  - Oft kosteneffizienter, da keine Margen für Zwischenhändler gezahlt werden müssen.
+  - Beispiele: Ein Unternehmen bestellt Stahl direkt bei einem Stahlwerk oder Software direkt beim Hersteller.
+
+**Indirekte Beschaffung**
+
+- **Definition:** Bei der indirekten Beschaffung wird die Ware oder Dienstleistung über einen Zwischenhändler oder eine Handelsorganisation bestellt.
+- **Merkmale:**
+  - Es gibt mindestens eine vermittelnde Instanz zwischen dem Unternehmen und dem Produzenten.
+  - Kann höhere Kosten verursachen, aber oft mit Vorteilen wie geringeren administrativen Aufwand oder einem breiteren Sortiment verbunden.
+  - Beispiele: Ein Unternehmen kauft Büromaterial bei einem Großhändler oder IT-Komponenten bei einem spezialisierten Reseller.
 
 #### Aufgabenteil ab (2 Punkte)
 
-**Vorteile der direkten Beschaffung für die TechHome Solutions AG:**
-- **Sicherstellung der Produktionsqualität:**
-  - Zugang zu hochwertigen Rohstoffen und Komponenten sichert die Qualität der Smart-Home-Produkte.
-- **Kosteneffizienz durch Mengenrabatte:**
-  - Große Bestellmengen bei wichtigen Bauteilen ermöglichen Rabatte und geringere Kosten pro Einheit.
-- **Zuverlässige Lieferketten:**
-  - Langfristige Verträge mit Lieferanten gewährleisten eine stabile und planbare Produktion.
-- **Produktionskontinuität:**
-  - Reduziert das Risiko von Produktionsunterbrechungen durch fehlende Materialien.
+**Vorteile der direkten Beschaffung**
 
-**Vorteile der indirekten Beschaffung für die TechHome Solutions AG:**
-- **Effizienzsteigerung im Betrieb:**
-  - Beschaffung von IT-Dienstleistungen und Büromaterial unterstützt einen reibungslosen Geschäftsbetrieb.
-- **Flexibilität und schnelle Anpassungen:**
-  - Einfache Anpassung an veränderte Anforderungen oder kurzfristige Bedarfe.
-- **Optimierung der Betriebskosten:**
-  - Effiziente Beschaffung von Betriebsmitteln kann zu Kosteneinsparungen im Tagesgeschäft führen.
+- **Kostenersparnis durch Wegfall von Zwischenhändlern:** Da die TechHome Solutions AG direkt beim Hersteller bestellt, entfallen Margen und Aufschläge von Zwischenhändlern. Dies ist besonders relevant bei größeren Stückzahlen oder hochpreisigen Komponenten, wie beispielsweise Smart-Home-Hardware oder IT-Infrastruktur. Die direkten Verhandlungen ermöglichen zudem günstigere Konditionen.
+- **Bessere Kontrolle über Qualität und Innovationen:** Durch den direkten Kontakt mit Herstellern kann die TechHome Solutions AG frühzeitig auf neue Technologien und Innovationen zugreifen. Außerdem ist eine direkte Kommunikation über Qualitätsanforderungen und Produktanpassungen möglich, was die Wettbewerbsfähigkeit stärkt.
+
+**Vorteile der indirekten Beschaffung**
+
+- **Breitere Produktverfügbarkeit und geringerer Aufwand:** Über Zwischenhändler hat die TechHome Solutions AG Zugriff auf ein breiteres Sortiment unterschiedlicher Hersteller, ohne mit jedem einzelnen Produzenten verhandeln zu müssen. Dies reduziert den administrativen Aufwand und vereinfacht die Beschaffung, insbesondere bei einer Vielzahl von benötigten Komponenten.
+- **Schnellere Lieferzeiten und Bündelung von Dienstleistungen:** Händler können oft größere Mengen vorrätig halten und schnell liefern. Zudem bieten sie Zusatzleistungen wie Lagerung, Finanzierung oder technischen Support, die der TechHome Solutions AG Zeit und Ressourcen sparen.
 
 #### Aufgabenteil ac (4 Punkte)
 

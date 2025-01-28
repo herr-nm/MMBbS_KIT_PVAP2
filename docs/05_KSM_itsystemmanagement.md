@@ -221,7 +221,17 @@ Beschreiben Sie die folgenden Sourcing-Strategien kurz und geben Sie jeweils ein
 
 Die TechHome Solutions AG plant, ihre Beschaffungsprozesse so weit wie möglich zu digitalisieren. Nennen Sie zwei Technologien, die das digitale Beschaffungswesen unterstützen und erklären Sie kurz deren Nutzen für die TechHome Solutions AG.
 
+## Probeprüfung Nr. 2 (KSM AP2 PB1)
 
+*In Anlehnung an die IHK AP2 W23*
+
+### Handlungssituation
+
+Die TechHome Solutions GmbH & Co. KG ist ein IT-Systemhaus mit dem besonderen Fokus auf kleine und mittelständische Unternehmen und deren Herausforderungen. Das Produktprogramm wurde über die vergangenen Jahre kontinuierlich erweitert. Aufgrund einiger Kundenanfragen sollen nun die Bereiche Energiemanagement und Gebäudesicherheit mit aufgenommen werden. Sie sollen diese Erweiterung vorbereiten.
+
+![TechHome](bilder/05_01_TechHome.png)
+
+### 1. Aufgabe (24 Punkte)
 
 {%
    include-markdown "inhalte/lizenzhinweis.md"
