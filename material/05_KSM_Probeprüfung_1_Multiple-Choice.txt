@@ -1,0 +1,79 @@
+::1:: Was ist ein Vorteil drahtloser Datenübertragungen (WLAN) gegenüber kabelgebundenen Verbindungen? 
+{
+= Einfache Nachrüstung
+~ Höhere Sicherheit # WLAN ist generell anfälliger für Sicherheitsprobleme im Vergleich zu kabelgebundenen Verbindungen.
+~ Stabilere Verbindung # Kabelgebundene Verbindungen bieten meist eine stabilere Verbindung als drahtlose.
+~ Geringere Kosten # Die Kosten für kabelgebundene Verbindungen können je nach Projekt geringer sein, insbesondere bei höheren Bandbreiten.
+}
+
+::2:: Welche Eigenschaft beschreibt ein Mesh-Netzwerk am besten?
+{
+= Alle Access Points sind miteinander verbunden und leiten Daten weiter
+~ Alle Geräte sind zentral an einen Router angeschlossen # Dies beschreibt eine herkömmliche Router-Struktur und nicht ein Mesh-Netzwerk.
+~ Es wird ausschließlich im 2.4 GHz-Band betrieben # Mesh-Netzwerke nutzen sowohl das 2.4 GHz- als auch das 5 GHz-Band.
+~ Es benötigt immer eine direkte Verbindung zu einem LAN # Mesh-Netzwerke benötigen nicht zwingend eine direkte LAN-Verbindung.
+}
+
+::3:: Was versteht man unter dem Begriff „seamless roaming“?
+{
+= Automatische Umschaltung zwischen Funkzellen ohne Unterbrechung
+~ Schnelle Verbindungsgeschwindigkeit # Dies beschreibt nicht „seamless roaming“, sondern eher die Netzwerkleistung.
+~ Nutzung von mehreren Frequenzbändern gleichzeitig # Dies ist eine Eigenschaft von Dual-Band- oder Tri-Band-Systemen, aber nicht von „seamless roaming“.
+~ Unterstützung nur von Geräten desselben Herstellers # Geräte unterschiedlicher Hersteller können „seamless roaming“ unterstützen, sofern sie kompatibel sind.
+}
+
+::4:: Warum sind mindestens drei Zugangspunkte für ein Mesh-Netzwerk erforderlich?
+{
+= Um eine redundante Verbindung zu schaffen
+~ Um eine schnellere Datenübertragung zu gewährleisten # Mehr Zugangspunkte können die Reichweite erhöhen, garantieren jedoch nicht automatisch höhere Geschwindigkeiten.
+~ Um die Reichweite auf 2.4 GHz zu erhöhen # Die Reichweite hängt von mehreren Faktoren ab, nicht nur von der Frequenz.
+~ Um mit kabelgebundenen Verbindungen kompatibel zu sein # Kabelgebundene Verbindungen sind für die Existenz eines Mesh-Netzwerks nicht erforderlich.
+}
+
+::5:: Welche Frequenzbänder werden in einem typischen Mesh-WLAN-System verwendet?
+{
+= 2.4 GHz und 5 GHz
+~ 2.4 GHz und 6 GHz # Mesh-Netzwerke nutzen typischerweise das 2.4 GHz- und 5 GHz-Band, nicht das 6 GHz-Band.
+~ Nur 2.4 GHz # Ein Mesh-Netzwerk verwendet in der Regel auch das 5 GHz-Band.
+~ Nur 5 GHz # Ein Mesh-Netzwerk nutzt häufig beide Bänder, 2.4 GHz und 5 GHz.
+}
+
+::6:: Was ist „Mesh-Steering“?
+{
+= Ein Verfahren zur Optimierung des Datenflusses zwischen Mesh-Knoten
+~ Ein Mechanismus zur Kontrolle der Netzwerkausrichtung # Dies beschreibt nicht „Mesh-Steering“.
+~ Eine Methode zur Reduzierung der Bandbreite # „Mesh-Steering“ optimiert die Verbindung und reduziert nicht die Bandbreite.
+~ Eine Möglichkeit zur Priorisierung von Geräten # Das ist eine Funktion des QoS (Quality of Service), nicht von „Mesh-Steering“.
+}
+
+::7:: Sind Komponenten verschiedener Hersteller im Mesh-Netzwerk normalerweise kompatibel?
+{
+= Nur, wenn sie den gleichen Standard verwenden
+~ Ja, immer # Geräte müssen denselben Standard unterstützen, um kompatibel zu sein.
+~ Nein, niemals # Einige Geräte verschiedener Hersteller sind kompatibel, wenn sie den gleichen Standard unterstützen.
+~ Nur bei kabelgebundenen Verbindungen # Kabelgebundene Verbindungen sind hier nicht relevant.
+}
+
+::8:: Welche OSI-Schicht fehlt in dieser Liste: 1 (Physische Schicht), 2 (Sicherungsschicht), 3 (Vermittlungsschicht), 5 (Sitzungsschicht), 7 (Anwendungsschicht)?
+{
+= Transportschicht
+~ Netzwerkschicht # Diese ist Schicht 3 und ist bereits angegeben.
+~ Präsentationsschicht # Dies ist Schicht 6.
+~ Datenverbindungsschicht # Dies ist Schicht 2 und ist ebenfalls bereits angegeben.
+}
+
+::9:: Welche Topologie wird von KNX verwendet?
+{
+= Bus-Topologie
+~ Stern-Topologie # Die Stern-Topologie wird typischerweise in Ethernet-Netzwerken verwendet.
+~ Ring-Topologie # Diese Topologie ist bei KNX nicht üblich.
+~ Maschen-Topologie # Diese ist für Mesh-Netzwerke typisch, nicht für KNX.
+}
+
+::10:: Welche Strategie beschreibt Cross-Selling am besten?
+{
+= Verkauf ergänzender Produkte an einen bestehenden Kunden
+~ Verkauf eines höherwertigen Produkts an einen bestehenden Kunden # Dies beschreibt Up-Selling.
+~ Einführung eines neuen Produkts für eine neue Zielgruppe # Dies ist keine Cross-Selling-Strategie.
+~ Reduzierung des Produktangebots # Dies ist keine Verkaufsstrategie.
+}
