@@ -279,3 +279,238 @@ Da A-Kunden den Großteil des Umsatzes generieren, ist deren Verlust für DairyT
 - **Regelmäßige Feedbackgespräche und Bedarfsanalysen:** DairyTech sollte in regelmäßigen Abständen Feedback von A-Kunden einholen und ihre Bedürfnisse analysieren, um die Produkt- und Serviceangebote besser anzupassen. Dies hilft, frühzeitig auf Kundenbedürfnisse zu reagieren und sich von Wettbewerbern abzuheben.
 - **Priorisierte Lieferung und Kundensupport:** A-Kunden sollten bei Lieferungen und im Kundensupport bevorzugt behandelt werden. Schnelle Reaktionszeiten und eine zuverlässige Logistik stärken das Vertrauen und die Zufriedenheit dieser Kunden.
 - **Entwicklung gemeinsamer Innovationsprojekte:** DairyTech könnte mit ausgewählten A-Kunden gemeinsame Projekte zur Produktentwicklung oder Prozessoptimierung umsetzen. Dies bindet den Kunden eng an das Unternehmen und eröffnet potenzielle neue Umsatzquellen.
+
+## Probeprüfung Nr. 2 (KSM AP2 PB2)
+
+### 1. Aufgabe (26 Punkte)
+
+#### Aufgabenteil a
+
+#### Aufgabenteil aa (3 Punkte)
+
+- Aktivseite: Erhöhung des Anlagevermögens (BGA)
+- Passivseite: Erhöhung des Fremdkapitals (Darlehen)
+- Insgesamt: Aktiv-Passiv-Mehrung / Bilanzverlängerung
+
+#### Aufgabenteil ab (4 Punkte)
+
+- Abnahme des Wertes eines Gegenstands des Anlagevermögens über eine fest definierte Laufzeit jährlich in gleicher Höhe
+- $$ \frac{100\,\text{\% Wert}}{Nutzungsdauer} = \frac{100\,\text{\% Wert}}{5\,\text{Jahre}} = 20\,\text{\%} $$
+
+#### Aufgabenteil ac (3 Punkte)
+
+- Berücksichtigung des Wertverlusts des Anlagevermögens in der Bilanz
+- Abschreibungen gehen als Aufwand in die Gewinn- und Verlustrechnung ein. Hierüber wird nach Abschluss des GuV das Eigenkapital gemindert.
+- Daher führen Abschreibungen zu einer Aktiv-Passiv-Minderung (beide Seiten der Bilanz werden gleichsam gemindert)
+- *Hinweis: Abschreibungen gehen als Aufwand also gewinnminderd in die GuV ein, sodass der zu versteuendernde Gewinn geringer ist*
+
+#### Aufgabenteil b
+
+#### Aufgabenteil ba (8 Punkte)
+
+- Vorteile:
+  - keine Belastung der Liquidität
+  - neuester Stand der Technik möglich
+  - Gewinnminderung
+  - Verbesserung der Kapitalstruktur
+- Nachteile:
+  - mitunter teuer
+  - kein Eigentum an der Sache
+  - mitunter begrenzte Auswahl
+  - Abhängigkeit vom Leasinggeber
+  - keine vorzeitige Kündigung möglich
+
+#### Aufgabenteil bb (4 Punkte)
+
+Bei Kauf:
+
+- Geschäftsbetrieb läuft wie bisher mit identischer Hardware und Software-Anbindung weiter
+- Hierfür muss die Ablösesumme bereitstehen
+
+Bei Tausch:
+
+- Hardwaretausch führt zu entsprechenden Einschränkungen im Geschäftsbetrieb
+- Neuere Sensoren haben ggf. Vorteile hinsichtlich des Funktionsumfangs oder der Energieeffizienz
+
+### 2. Aufgabe (26 Punkte)
+
+#### Aufgabenteil a (3 Punkte)
+
+- Wird in der Regel dann vereinbart, wenn der Verkäufer vermutet, dass der Käufer die Ware bis zur Bezahlung im Besitz hat (z.B. bei Maschinen, Inventar)
+- Ware geht in den Besitz des Käufers
+- das Eigentum geht erst nach vollstänidger Bezahlung an den Käufer über
+- *Hinweis: Verlängerter Eigentumsvorbehalt umfasst dann eine Ausdehnung auf Forderungen aus anderen Geschäften desselben Unternehmens, d.h. der Käufer erwirbt das Eigentum erst dann, wenn
+erstmals alle Forderungen aus der Geschäftsbeziehung getilgt sind.*
+
+#### Aufgabenteil b (6 Punkte)
+
+|                     | SensoTec GbR | Digital Measurements GmbH |
+| :---                | ---:         | ---:                      |
+| Listeneinkaufspreis | 5.400,00 EUR | 8.600,00 EUR              |
+| - Rabatt            |   270,00 EUR | 2.580,00 EUR              |
+| = Zieleinkaufspreis | 5.130,00 EUR | 6.020,00 EUR              |
+| - Skonto            |    51,30 EUR |   180,60 EUR              |
+| = Bareinkaufspreis  | 5.078,70 EUR | 5.839,40 EUR              |
+| + Bezugskosten      |    50,00 EUR |    10,00 EUR              |
+| = Bezugspreis       | 5.128,70 EUR | 5.849,40 EUR              |
+
+#### Aufgabenteil c (4 Punkte)
+
+- Zuverlässigkeit
+- Termintreue
+- Reklamationsverhalten
+- Zertifizierungen
+- Nachhaltigkeit der Produkte
+- Nachhaltigkeit der Logistik
+
+#### Aufgabenteil d (4 Punkte)
+
+- Skonto:
+  - ein nachträglich gewährter Preisnachlass, der an die Frist einer Zahlung gebunden ist
+  - soll zum frühzeitigen Zahlen einer offenen Rechnung bewegen
+  - *Hinweis: Kaufmännische Logik - wenn ich die Rechnung schnell bezahle habe ich einen gewissen Betrag zu zahlen. Wenn ich später bezahle habe ich den Betrag zuzüglich bspw. 2 % zu bezahlen. - Damit zahle ich quasi einen Aufpreis oder eine Strafe, wenn ich das Zahlungsziel lange ausreize*
+- Rabatt:
+  - sofort gewährter Preisnachlass, der nicht an Zahlungsfristen gebunden ist
+  - wird direkt auf der Rechnung abgezogen und wird deshalb nicht in den Büchern / dem System aufgenommen
+- *Hinweis: Es gibt auch noch den Bonus. Dies sind nachträglich gewährte Preisnachlässe, die an Bedingungen geknüpft sind. In der Regel an ein Bestellvolumen in einem definierten Zeitraum. Boni sind daher oftmals nicht mit einer konkreten Rechnung in Bezug zu bringen.*
+
+#### Aufgabenteil e (3 Punkte)
+
+- Skonto unter Nutzung des Kontokorrentkredits (Dispo/Konto überziehen) lohnt sich, wenn der Skontoabzug höher ist als die anfallenden Zinskosten der Kontokorrentlinie
+- Um diesen Vorteil zu berechnen, müssen Zinssatz des Lieferantenkredits und Zinssatz der Bank verglichen werden. 
+- Formel: 
+  - $$ \,\text{Zinssatz des Lieferantenkredits} = \frac{\,\text{Skontosatz}\,\cdot\,360\,\text{Tage}}{\,\text{Zahlungsziel in Tagen}} - \,\text{Skontofrist in Tagen} $$
+  - "Zinssatz des Lieferantekredits" ist der Zinsatz des Skonto umgerechnet auf einen Jahreszinzsatz
+  - Skontosatz sind bspw. die 2 % Preisnachlass
+  - Zahlungsziel in Tagen sind bspw. die 30 Tage Frist, bis die Rechnung spätestens bezahlt sein muss
+  - Skontofrist in Tagen sind bspw. die 10 Tage Frist, in denen die 2 % Skonto noch gezogen werden dürfen
+
+### 3. Aufgabe (30 Punkte)
+
+#### Aufgabenteil a
+
+#### Aufgabenteil aa (3 Punkte)
+
+- Einzelkosten lassen sich dem Kostenträger (Produkt, Projekt, Dienstleistung) direkt zurechnen.
+- Beispiel: Lohnkosten eines Mitarbeiters, der für die Auslieferungen auf Basis der geleisteten Arbeitsstunden bezahlt wird.
+
+#### Aufgabenteil ab (2 Punkte)
+
+- Gemeinkosten lassen sich nicht direkt dem Kostenträger zurechnen. Sie müssen über einen Verteilungsschlüssel zugeordnet werden.
+- Beispiel: Gehalt der Personalleiterin in der Personalabteilung.
+
+#### Aufgabenteil ac (4 Punkte)
+
+- Der BAB ist das Tool in der zweiten Säule der Kosten- und Leistungsrechnung - der Kostenstellenrechnung.
+- Der BAB dient der Verteilung der Gemeinkosten auf die verschiedenen Kostenstellen.
+- Am Ende des BAB wird das letztendliche Ziel erreicht: die Berechung  der Gemeinkostenzuschlagssätze einer jeder Kostenstelle.
+
+#### Aufgabenteil b
+
+#### Aufgabenteil ba (10 Punkte)
+
+| Gemeinkostenart                        | Betrag        | Verteilungsgrundlage   | Logistikfläche | Kühllager     | Tiefkühllager | Verwaltung inkl. IT |
+|----------------------------------------|---------:     |------------------------|---------------:|----------:    |-------------: |-------------------: |
+| Gehälter und Hilfslöhne (unproduktiv)  | 600.000       | Zeiterfassungsdaten    | 400.000        | 80.000        | 30.000        | 90.000              |
+| Mieten                                 | 480.000       | Fläche (m²)            |  96.000        | 240.000       | 120.000       | 24.000              |
+| Energiekosten                          | 2.400.000     | Zählerstände           | 150.000        | 1.000.000     | 1.200.000     | 50.000              |
+| Fuhrpark                               | 800.000       | Einsatzdaten           | 600.000        | 120.000       | 72.000        | 8.000               |
+| Sonstige Betriebliche Aufwendungen     | 240.000       | Mitarbeiteranzahl      | 160.000        | 32.000        | 16.000        | 32.000              |
+| Kalkulatorische Abschreibungen         | 400.000       | Anlagenkartei          | 120.000        | 180.000       | 80.000        | 20.000              |
+| Kalkulatorische Wagnisse               | 30.000        | Versicherungsdaten     | 4.000          | 20.000        | 6.000         | 0                   |
+| **Summen**                             | **4.950.000** |                        | 1.530.000      | 1.672.000     | 1.524.000     | 224.000             |
+
+#### Aufgabenteil bb (3 Punkte)
+
+$$ \frac{56.000}{224.000} \,\cdot\, 100\,\text{\%} = 25,00\,\text{\%} $$
+
+#### Aufgabenteil c
+
+#### Aufgabenteil ca (3 Punkte)
+
+- Bestandsmanagement und Lagerhaltung
+  - Automatisierte Bestandsüberwachung: IoT-fähige Sensoren an Regalen und Paletten ermöglichen eine Echtzeitverfolgung der Lagerbestände. Dies reduziert Überbestände und Engpässe.
+  - Optimierung von Lagerflächen: Mithilfe von IoT-Sensoren können Platznutzung und Lagerlayout optimiert werden, um die Effizienz zu steigern und Mietkosten zu senken.
+  - Reduktion von Verderb und Verlust: Temperatur- und Feuchtigkeitssensoren helfen, verderbliche oder empfindliche Waren optimal zu lagern und Schäden zu vermeiden.
+- Effiziente Transport- und Lieferkettensteuerung
+  - Vorausschauende Wartung von Fahrzeugen und Fördertechnik: IoT-Sensoren erkennen frühzeitig Verschleiß an Gabelstaplern, Förderbändern und autonomen Transportrobotern, was ungeplante Ausfälle und hohe Wartungskosten verhindert.
+  - Optimierte Routenplanung: IoT-Systeme analysieren Verkehrsdaten in Echtzeit und optimieren Lieferwege, um Treibstoffkosten und Lieferzeiten zu reduzieren.
+  - Automatisierte Warenein- und -ausgangskontrolle: RFID- und Barcode-Systeme in Kombination mit IoT reduzieren den manuellen Aufwand und beschleunigen die Prozesse.
+- Energieeinsparungen und Nachhaltigkeit
+  - Intelligente Beleuchtung und Klimatisierung: IoT-gesteuerte LED-Beleuchtungssysteme und HVAC-Systeme (Heizung, Lüftung, Klimaanlage) passen sich an die Nutzung des Lagerraums an und senken den Energieverbrauch.
+  - Energieverbrauchsüberwachung: Smarte Stromzähler und Sensoren helfen, ineffiziente Geräte zu identifizieren und Energiekosten zu senken.
+  - Elektrifizierte und vernetzte Fahrzeugflotten: Durch IoT-gestützte Ladeoptimierung für Elektrofahrzeuge können Energie- und Wartungskosten reduziert werden.
+- Automatisierung und Prozessoptimierung
+  - Einsatz von autonomen Fahrzeugen und Robotern: IoT-vernetzte AGVs (Automated Guided Vehicles) oder AMRs (Autonomous Mobile Robots) verbessern den Materialfluss und senken Personalkosten.
+  - Predictive Analytics für Lagerprozesse: KI-gestützte IoT-Systeme analysieren historische Daten, um Nachfragetrends vorherzusagen und Lagerbestände optimal zu steuern.
+  - Digitale Zwillinge: Durch digitale Zwillinge von Lagerhallen und Prozessen lassen sich Engpässe und Optimierungspotenziale in Echtzeit simulieren.
+- Verbesserung der Arbeitssicherheit und Produktivität
+  - Wearables für Mitarbeitende: IoT-gestützte Smart Wearables überwachen Gesundheitsdaten und vermeiden Überlastung oder gefährliche Situationen.
+  - Unfallvermeidung durch intelligente Sensoren: Kollisionswarnsysteme für Gabelstapler oder smarte Schutzzonen verbessern die Arbeitssicherheit.
+  - Automatische Zugangskontrollen: IoT-gestützte Zutrittssysteme ermöglichen eine sichere und effiziente Steuerung des Personenzugangs.
+
+#### Aufgabenteil cb (3 Punkte)
+
+- Outsourcing ist das Auslagern einer Aufgabe an einen externen Dienstleister.
+- Beispiele:
+  - Auslagerung der Fahrzeugflotte und Fahrer an ein externes Logistikunternehmen
+  - Auslagerung des IT-Supports an ein externes Dienstleistungsunternehmen
+
+#### Aufgabenteil cc (2 Punkte)
+
+- Daten werden an ein anderes Unternehmen gegeben
+- Verlust von Wissen im Unternehmen
+- Abhängigkeit vom Dienstleister
+- Unsichere Kostenentwicklung
+
+### 4. Aufgabe (28 Punkte)
+
+#### Aufgabenteil a (8 Punkte)
+
+| Aspekt                                       | Beschreibung                                                                               |
+| :---                                         | :---                                                                                       |
+| **Umfang der Dienstleistung**                | Was muss alles wann an Leistung erbracht werden?                                           |
+| **Verfügbarkeit des Service**                | Wie viele Stunden am Tag muss der Service für den sicheren Betrieb erbracht werden?        |
+| **Reaktionszeit**                            | Wie schnell muss auf die Störung reagiert werden?                                          |
+| **Lösung des Problems**                      | Bis wann muss die volle Funktionsfähigkeit wieder hergestellt werden?                      |
+| **Verantwortlichkeit des Leistungsbringers** | Qualifizierungen, Ausbildungstand der Mitarbeiter                                          |
+| **Verantwortlichkeit des Kunden**            | Bereitstellung von Zugängen etc.                                                           |
+| **Vertragsausschlüsse**                      | Z. B. höhere Gewalt, Krieg etc.                                                            |
+| **Vertragsstrafen**                          | Z. B. gestaffelt nach Schwere der Störung und Nichterfüllung                               |
+| **Boni als Anreizsystem**                    | Z. B. bei hoher Einhaltung der SLAs oder hohe Betriebsverfügbarkeit, Beispiel 99,8 Prozent |
+
+#### Aufgabenteil b (4 Punkte)
+
+- Datensicherheit und Datenschutz (Compliance-Risiken)
+  - **DSGVO-Konformität** fraglich → Risiko von Datenschutzverstößen  
+  - **Datenmissbrauch & Zugriff durch Dritte** möglich → sensible Produktions-/Kundendaten in Gefahr  
+  - **Rechtliche Durchsetzung erschwert** → schwierige Kontrolle bei Datenschutzverstößen außerhalb der EU  
+- Verfügbarkeit und Reaktionszeiten (Betriebssicherheit)
+  - **Zeitliche Verzögerungen** durch Zeitzonenunterschiede → längere Reaktionszeiten bei Störungen  
+  - **Kommunikationsprobleme** (Sprache, Kultur) → mögliche Missverständnisse bei Fehlerbehebung  
+  - **Technische Infrastruktur & Internetstabilität** → Echtzeitüberwachung könnte beeinträchtigt werden  
+
+#### Aufgabenteil c (6 Punkte)
+
+- Bereitstellung von Mindestsystemanforderungen: SensorTec GmbH muss die technischen Mindestanforderungen für den Betrieb ihrer Online-Systeme klar definieren und der PizzaExpress GmbH zur Verfügung stellen.
+- Technische und organisatorische Datenschutzmaßnahmen: SensorTec GmbH muss eine detaillierte Beschreibung der geforderten Datenschutzmaßnahmen bereitstellen, um die Einhaltung von Sicherheits- und Datenschutzrichtlinien zu gewährleisten.
+- Bereitstellung und Abstimmung relevanter Unterlagen: SensorTec GmbH muss alle erforderlichen Dokumente vorab an die PizzaExpress GmbH übermitteln und gemeinsam mit ihr abstimmen.
+- Definition technischer Anforderungen für Datenleitungen und Schnittstellen: SensorTec GmbH muss technische Daten und Leistungsparameter für alle notwendigen Datenleitungen und Schnittstellen frühzeitig zur Verfügung stellen.
+
+#### Aufgabenteil d
+
+#### Aufgabenteil da (2 Punkte)
+
+- Es kann fristgerecht schriftlich ohne Angabe von Gründen gekündigt werden.
+- Außerordentlich kann nur aus wichtigem Grund gekündigt werden.
+
+#### Aufgabenteil db (4 Punkte)
+
+- Kürzere Kündigungsfristen verhandeln
+- Wichtige Gründe für die Außerordentliche Kündigung definieren
+- Bei Vertragsänderungen bessere Rechte verhandeln
+
+#### Aufgabenteil dc (4 Punkte)
+
+- Beauftragung zweier Unternehmen mit getrennten Aufgabenbereichen und damit die Risikoverteilung
+- Beauftragung nur eines Dienstleisters bei gleichzeitiger Abdeckung von kritischen Aufgabenbereichen durch eigene Mitarbeiter

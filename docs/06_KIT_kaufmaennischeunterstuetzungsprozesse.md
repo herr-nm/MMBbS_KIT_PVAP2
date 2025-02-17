@@ -325,7 +325,250 @@ Berechnen Sie die langfristige Preisuntergrenze.
 
 Beschreiben Sie den Begriff der langfristigen Preisuntergrenze und stellen Sie einen Bezug zum Erfolg eines Unternehmens her.
 
+## Probeprüfung Nr. 2 (KSM AP2 PB2)
 
+*In Anlehnung an die IHK AP2 S23*
+
+### Handlungssituation
+
+Sie sind Mitarbeiter der PizzaExpress GmbH, einem Lieferdienst für Pizza und andere Speisen.
+
+Sie sind in der IT-Abteilung dieses Unternehmens beschäftigt. Da es in der Vergangenheit zunehmend Kundenbeschwerden zum Zustand der Gerichte gegeben hat, sollen zur Qualitätssicherung Maßnahmen unter Beachtung der Sicherheitsstandards, des Datenschutzes sowie die Verfügbarkeit der Komponenten ergriffen werden.
+
+- Da insbesondere im Winter durch die Kunden die Temperatur der Pizzen bemängelt wurde, soll über Sensoren in der aktiv geregelten Warmhaltebox sichergestellt werden, dass diese funktionieren. Für den Nachweis sollen die Temperaturen in einem Log erfasst werden.
+- Eine neue Funktion in der Bestell-App soll den Kunden zukünftig den aktuellen Standort ihres Lieferanten und die Anzahl der noch vor ihnen liegenden Zwischenhalte angezeigt werden. Hierdurch soll das Team in der Niederlassung von telefonischen Nachfragen entlastet und der Kunde besser informiert werden.
+
+![Pizzalieferdienst](bilder/06_01_PizzaExpress.png)
+
+### 1. Aufgabe (22 Punkte)
+
+Die Sensoren zur Überwachung der Warmhalteboxen können inklusive der GSM-Module und einer Steuereinheit gekauft oder geleast werden.
+
+#### Aufgabenteil a
+
+Um alle Auslieferfahrzeuge (Roller, Fahrräder, Lastenräder & Autos) mit den Sensoren ausstatten zu können, müsste ein Darlehen im Rahmen der Beschaffung aufgenommen werden.
+
+#### Aufgabenteil aa (3 Punkte)
+
+Welche Auswirkungen hätte der Kauf mittels Darlehen auf die Bilanz der PizzaExpress GmbH?
+
+#### Aufgabenteil ab (4 Punkte)
+
+Gemäß AfA-Tabelle werden elektronische Messgeräte über 5 Jahre abgeschrieben. Beschreiben Sie, was unter der linearen Abschreibung aufgrund der Wertminderung der Sensoren zu verstehen ist und ermitteln Sie nachvollziehbar den jährlichen Abschreibungsprozentsatz.
+
+#### Aufgabenteil ac (3 Punkte)
+
+Welche Auswirkungen haben die Abschreibungen auf die Bilanz sowie auf die Gewinn- und Verlustrechnung?
+
+#### Aufgabenteil b
+
+Die Alternative zum Kauf auf Darlehen wäre ein Leasing über die Electronics GmbH & Co. KG. In deren Leasingverträgen kann zum ende der Laufzeit eine Kaufoption vereinbart werden.
+
+#### Aufgabenteil ba (8 Punkte)
+
+Welche Vor- und welche Nachteile bringt ein Leasing mit sich?
+
+#### Aufgabenteil bb (4 Punkte)
+
+Welche Auswirkungen hat das Auslaufen eines Leasings der Sensoren bei der Electronics GmbH & Co. KG für die PizzaExpress GmbH? Beschreiben Sie zwei Möglichkeiten.
+
+### 2. Aufgabe (20 Punkte)
+
+Die Geschäftsführung hat sich trotz der Kosten für den Einsatz der Sensoren für die Warmhalteboxen entschieden. Sie sollen entsprechende Angebote zum Vergleich gegnenüber der Electronics GmbH & Co. KG auf dem Markt einholen. Zwei haben Sie bereits erhalten:
+
+#### Anlage 1 - Rechnung der SensoTec GbR
+
+*Angebot*
+
+| Pos   | Artikel-Nr. | Bezeichnung                                      | Menge | Gesamtpreis  |
+| :---: | :---        | :---                                             | :---: | ---:         |
+| 1     | SVA8000     | Zentralsteuereinheit                             | 1     | 5.000,00 EUR |
+| 2     | SVA100      | Temperatursensor mit GSM-Modul und Steuereinheit | 50    |   400,00 EUR |
+|       |             | Summe (netto)                                    |       | 5.400,00 EUR |
+|       |             | MwSt. 19 %                                       |       | 1.026,00 EUR |
+|       |             | Gesamtbetrag                                     |       | 6.426,00 EUR |
+
+Bei einer Bestellung bis zum 15.01. können wir die Lieferung zum 05.02. garantieren. Wir gewähren Ihnen 5 % Neukunden-Rabatt.
+
+Bei Zahlung innerhalb von 7 Tagen ab Rechnungsdatum gewähren wir 1 % Skonto. Die Frachtkosten in Höhe von 50 EUR sind vom Käufer zu tragen. Die Ware bleibt bis zur vollständigen Bezahlung Eigentum der SensoTec GbR. Es gilt der einfache Eigentumsvorbehalt.
+
+#### Anlage 2 - Rechnung der Digital Measurements GmbH
+
+*Angebot*
+
+| Pos   | Artikel-Nr. | Bezeichnung                                      | Menge | Gesamtpreis   |
+| :---: | :---        | :---                                             | :---: | ---:          |
+| 1     | 56473298    | Zentralsteuereinheit                             | 1     |  8.000,00 EUR |
+| 2     | 27172727    | Temperatursensor mit GSM-Modul und Steuereinheit | 50    |    600,00 EUR |
+|       |             | Summe (netto)                                    |       |  8.600,00 EUR |
+|       |             | MwSt. 19 %                                       |       |  1.634,00 EUR |
+|       |             | Gesamtbetrag                                     |       | 10.234,00 EUR |
+
+Für Ihre Bestellung gewähren wir 30 % Treue-Rabatt.
+
+Bei einer Bestellung bis zum 10.01. können wir die Lieferung zum 15.02. garantieren.
+
+Bei Zahlung innerhalb von 7 Tagen ab Rechnungsdatum gewähren wir 3 % Skonto. Die Frachtkosten in Höhe von 10 EUR sind vom Käufer zu tragen. Die Ware bleibt bis zur vollständigen Bezahlung Eigentum der SensoTec GbR. Es gilt der einfache Eigentumsvorbehalt.
+
+#### Aufgabenteil a (3 Punkte)
+
+Ihnen liegen die zwei Angebote vor. In diesen ist der Eigentumsvorbehalt enthalten, erläutern Sie den einfachen Eigentumsvorbehalt.
+
+#### Aufgabenteil b (6 Punkte)
+
+Führen Sie anhand der vorliegenden Angebote einen quantitativen Angebotsvergleich durch: Ermitteln Sie nachvollziehbar den Bezugspreis.
+
+#### Aufgabenteil c (4 Punkte)
+
+Neben den quantitativen Aspekten sind für die Kaufentscheidung auch qualitative Kriterien heranzuziehen. Beschreiben Sie zwei wichtige qualitative Kriterien zur Auswahl des Lieferanten.
+
+#### Aufgabenteil d (4 Punkte)
+
+Die Angebote enthalten die Begriffe "Skonto" und "Rabatt". Erläutern Sie diese Begriffe.
+
+#### Aufgabenteil e (3 Punkte)
+
+Warum wäre es auch bei Inanspruchnahme eines kurzfristigen Kontokorrektkredits sinnvoll, den Skonto des Lieferanten in Anspruch zu nehmen?
+
+### 3. Aufgabe (30 Punkte)
+
+Die PizzaExpress GmbH betreibt einen Lieferdienst mit vier Kostenstellen:
+
+- Wareneingang und Lagerung
+- Speisezubereitung
+- Zulieferung
+- Verwaltung und IT
+
+#### Aufgabenteil a
+
+Die Lagerung sowie die Zulieferung der Lebensmittel sind sehr kostenintensiv für die PizzaExpress GmbH.
+
+#### Aufgabenteil aa (3 Punkte)
+
+Was ist unter Einzelkosten zu verstehen? Erläutern Sie in eigenen Worten und geben Sie ein Beispiel mit Bezug zum Lieferdienst.
+
+#### Aufgabenteil ab (2 Punkte)
+
+Was ist unter Gemeinkosten zu verstehen? Erläutern SIe in eigenen Worten und geben Sie ein Beispiel mit Bezug zum Lieferdienst.
+
+#### Aufgabenteil ac (4 Punkte)
+
+Welchen Zweck verfolgt die PizzaExpress GmbH mit der Durchführung eines Betriebsabrechnungsbogens (BAB)?
+
+#### Aufgabenteil b
+
+Die PizzaExpress GmbH hat einen Mutterkonzern in Frankreich. Für dessen Wareneingang seiner Zentrallogistik und die Lagerung der ist der folgende BAB gegeben:
+
+| Gemeinkostenart                        | Betrag        | Verteilungsgrundlage   | Logistikfläche | Kühllager     | Tiefkühllager | Verwaltung inkl. IT |
+|----------------------------------------|---------:     |------------------------|---------------:|----------:    |-------------: |-------------------: |
+| Gehälter und Hilfslöhne (unproduktiv)  | 600.000       | Zeiterfassungsdaten    | 400.000        | 80.000        | 30.000        | 90.000              |
+| Mieten                                 | 480.000       | Fläche (m²)            |                |               |               |                     |
+| Energiekosten                          | 2.400.000     | Zählerstände           | 150.000        | 1.000.000     | 1.200.000     | 50.000              |
+| Fuhrpark                               | 800.000       | Einsatzdaten           | 600.000        | 120.000       | 72.000        | 8.000               |
+| Sonstige Betriebliche Aufwendungen     | 240.000       | Mitarbeiteranzahl      | 160.000        | 32.000        |               |                     |
+| Kalkulatorische Abschreibungen         | 400.000       | Anlagenkartei          | 120.000        | 180.000       |               |                     |
+| Kalkulatorische Wagnisse               | 30.000        | Versicherungsdaten     | 4.000          | 20.000        | 6.000         | 0                   |
+| **Summen**                             | **4.950.000** |                        |                |               |               |                     |
+
+|                          | Logistikfläche | Kühllager | Tiefkühllager | Verwaltung inkl. IT |
+|--------------------------|---------------:|----------:|-------------:|-------------------:|
+| **Fläche (m²)**          | 800            | 2.000     | 1.000        | 200               |
+| **Anzahl Fahrzeuge**     | 30             | 6         | 3            | 1                 |
+| **Anzahl Mitarbeiter**   | 20             | 4         | 2            | 4                 |
+| **Anlagewert (Mio. EUR)**| 3              | 4,5       | 2            | 0,5               |
+
+#### Aufgabenteil ba (10 Punkte)
+
+Vervollständigen Sie den BAB mithilfe der Angaben auch in der zweiten Tabelle und bilden Sie die Summe je Kostenstelle.
+
+#### Aufgabenteil bb (3 Punkte)
+
+Berechnen Sie den Gemeinkostenszuschlagssatz für die Kostenstelle "Verwaltung inkl. IT" unter Angabe des Rechenwegs. Runden Sie ggf. auf zwei stellen nach dem Komma.
+
+Die Einzelkosten im Zeitraum liegen für die Kostenstelle in Höhe von 56.000 EUR vor.
+
+#### Aufgabenteil c
+
+Der Kostendruck durch neue Wettbewerber steigt zunehmend. Daher sollen neben dem Wechsel des Energielieferanten zu einer günstigeren Alternative auch weitere Einsparpotenziale diskutiert werden.
+
+#### Aufgabenteil ca (3 Punkte)
+
+Welche Einsparpotenziale können Sie im Bereich Lager- und Logistikzentrum des Mutterkonzern mit Bezug zu IoT (Internet of Things) identifizieren?
+
+#### Aufgabenteil cb (3 Punkte)
+
+Das Outsourcing von IT-Dienstleistungen könnte ebenfalls Kosten einsparen. Was ist unter Outsourcing zu verstehen? Was wäre in Bezug zur IT-Abteilung ein passendes Beispiel?
+
+#### Aufgabenteil cc (2 Punkte)
+
+Beschreiben Sie einen Grund, der gegen das Outsourcing von IT-Leistungen spricht.
+
+### 4. Aufgabe (28 Punkte)
+
+In den Verhandlungen für die Temperatursensoren der Wärmeboxen hat die SensoTec GbR ebenfalls die Option eines Servicevertrags genannt. In dem Vertrag sollen die wichtigsten Aspekte vereinbart werden.
+
+#### Aufgabenteil a (8 Punkte)
+
+Erstellen Sie eine Checkliste mit vier weiteren Aspekten, die im Service-Level-Agreement geregelt werden sollten. Beschreiben Sie diese jeweils.
+
+*Beispiel:* 
+
+**Zielsetzung:** Ziel ist die lückenlose Überwachung der Sensorik und Sicherstellung des einwandfreien Betriebs.
+
+#### Aufgabenteil b (4 Punkte)
+
+Die SensoTec GbR plant einen Subunternehmer aus Indien für die Überwachung der Sensorik zu beauftragen. Nehmen Sie aus Sicht der PizzaExpress GmbH kritisch Stellung zu dieser Absicht und stellen Sie zwei Aspekte genauer heraus.
+
+#### Aufgabenteil c (6 Punkte)
+
+Die im folgenden Auszug aufgeführten Pflichten benachteiligen aus Ihrer Sicht die auftraggebende PizzaExpress GmbH gegenüber der auftragnehmenden SensoTec GbR.
+
+**Pflichten der PizzaExpress GmBH**
+
+*A4.1 Die PizzaExpress GmBH muss auf eigene Kosten die technischen Voraussetzungen schaffen, die zur Nutzung der von der SensorTec GbR zur Verfügung gestellten Online-Systeme erforderlich sind, insbesondere eigene Systeme auf die Nutzung der Leistungen vorbereiten.*
+
+*A4.2 Die PizzaExpress GmBH ist verpflichtet, das geltende Recht einzuhalten.*
+
+*A4.3 Die PizzaExpress GmBH ist verpflichtet, ihre Zugangsdaten (Benutzername und Passwort) gegen die unbefugte Verwendung durch Dritte zu schützen und ihr Passwort geheim zu halten. (…)*
+
+*A4.4 Die PizzaExpress GmBH muss Anfragen von der SensorTec GbR während der gesamten Vertragslaufzeit binnen fünf Werktagen beantworten und alle zur Bearbeitung erforderlichen Unterlagen einreichen. (…)*
+
+*A4.5 Die PizzaExpress GmBH benennt mindestens einen zuständigen Ansprechpartner mit dessen Kontaktdaten, an den sich die SensorTec GbR bei allen Anfragen im Zusammenhang mit diesem Vertrag wenden kann.*
+
+*A4.6 Die PizzaExpress GmBH stellt den Zugang zu den notwendigen Räumlichkeiten, die zur Erfüllung des Vertrages notwendig sind, für die SensorTec GbR bereit.*
+
+Was muss die SensoTec GbR bereitstellen, damit die PizzaExpress GmbH ihre Pflichten gegenüber der SensoTec GbR erbringen kann?
+
+#### Aufgabenteil d
+
+Der Geschäftsführer der PizzaExpress GmbH befürchtet, sich langfristig an die SensoTec GbR binden zu müssen:
+
+**Vertragslaufzeit, Vertragsverlängerung und Vertragsbeendigung**
+
+*A7.1 Die Mindestvertragslaufzeit beträgt zwölf Monate. Der Vertrag verlängert sich jeweils um ein Jahr, wenn er nicht sechs Monate vor Ablauf des jeweiligen 12-Monatszeitraumes gekündigt wird.*
+
+*A7.2 Sollte der Auftraggeber während des Vertragsjahres kostenpflichtige Zusatzleistungen hinzubuchen, kann jede Zusatzleistung ebenfalls mit einer Frist von sechs Monaten zum Ende des Vertragsjahres gekündigt werden.*
+
+*A7.3 Das Recht zur fristlosen, außerordentlichen Kündigung aus wichtigem Grund bleibt unberührt.*
+
+*A7.4 Ein wichtiger Grund zur fristlosen, außerordentlichen Kündigung durch SensorTec GbR liegt insbesondere vor, wenn*
+
+*a. die PizzaExpress GmbH einer Pflicht gemäß Ziff. A4 trotz Abmahnung oder wiederholt nicht nachkommt oder die Erfüllung dieser Pflichten ernsthaft und endgültig verweigert.*
+
+*b. oder die PizzaExpress GmbH mit der Zahlung einer Monatsrate oder des jährlichen Entgelts trotz Mahnung mindestens 30 Tage in Verzug ist.*
+
+
+#### Aufgabenteil da (2 Punkte)
+
+Trotz verschiedener Aufforderungen hat die SensoTec GbR angefallene Störungen nicht fristgerecht bearbeitet. Welche Möglichkeit hat die PizzaExpress GmbH zu kündigen?
+
+#### Aufgabenteil db (4 Punkte)
+
+Welche Möglichkeiten haben Sie, um die Vertrags- und Kündigungsbedingungen der PizzaExpress GmbH zu verbessern?
+
+#### Aufgabenteil dc (4 Punkte)
+
+Welche Möglichkeiten bestehen, um eine zu hohe Abhängigkeit von der SensorTec GbR zu verhindern?
 
 {%
    include-markdown "inhalte/lizenzhinweis.md"
