@@ -1,0 +1,1476 @@
+
+<!doctype html>
+<html lang="de" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://herr-nm.github.io/MMBbS_KIT_PVAP2/loesungen/05_KSM_itsystemmanagement_loesungen.html">
+      
+      
+      
+      
+      <link rel="icon" href="../bilder/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.7">
+    
+    
+      
+        <title>Lösungshinweise zu KSM IT-System-Management - KIT Prüfungsvorbereitung AP2</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.8608ea7d.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+    
+    
+      <link rel="stylesheet" href="../extra.css">
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#losungshinweise-zu-ksm-it-system-management" class="md-skip">
+          Zum Inhalt
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Kopfzeile">
+    <a href="../index.html" title="KIT Prüfungsvorbereitung AP2" class="md-header__button md-logo" aria-label="KIT Prüfungsvorbereitung AP2" data-md-component="logo">
+      
+  <img src="../bilder/logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            KIT Prüfungsvorbereitung AP2
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Lösungshinweise zu KSM IT-System-Management
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Suche" placeholder="Suche" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Suche">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Zurücksetzen" aria-label="Zurücksetzen" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Suche wird initialisiert
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/herr-nm/MMBbS_KIT_PVAP2" title="Zum Repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../index.html" title="KIT Prüfungsvorbereitung AP2" class="md-nav__button md-logo" aria-label="KIT Prüfungsvorbereitung AP2" data-md-component="logo">
+      
+  <img src="../bilder/logo.png" alt="logo">
+
+    </a>
+    KIT Prüfungsvorbereitung AP2
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/herr-nm/MMBbS_KIT_PVAP2" title="Zum Repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../index.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Informationen zur Kurslizenz
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../00_aufbau_und_inhalt.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Aufbau und Inhalt der IHK-Prüfung (AP2)
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../01_KDM_historischeinhalte.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    KDM Historische Inhalte
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../02_KSM_historischeinhalte.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    KSM Historische Inhalte
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../03_KIT_fachrichtungsuebergreifend.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    KIT Fachrichtungsübergreifend
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../04_KDM_digitalisierungsmanagement.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    KDM Digitalisierungsmanagement
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../05_KSM_itsystemmanagement.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    KSM IT-System-Management
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../06_KIT_kaufmaennischeunterstuetzungsprozesse.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    KIT Kaufmännische Unterstützungsprozesse
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../07_KIT_wiso.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    KIT WISO
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../08_pruefungstraining.md" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Prüfungstraining
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../09_KIT_projekt.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    KIT Projekt
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../10_KIT_fachgespraech.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    KIT Fachgespräch
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../11_KIT_themeninputs.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Themeninputs
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../12_lernpartner_kursangebote_material.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Lernpartner, Kursangebote & Material
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../13_ausbildung_geschafft.html" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Ausbildung geschafft
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Inhaltsverzeichnis">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Inhaltsverzeichnis
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#probeprufung-nr-1-ksm-ap2-pb1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Probeprüfung Nr. 1 (KSM AP2 PB1)
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Probeprüfung Nr. 1 (KSM AP2 PB1)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-aufgabe-24-punkte" class="md-nav__link">
+    <span class="md-ellipsis">
+      1. Aufgabe (24 Punkte)
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="1. Aufgabe (24 Punkte)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#aufgabenteil-a-4-punkte" class="md-nav__link">
+    <span class="md-ellipsis">
+      Aufgabenteil a (4 Punkte)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#aufgabenteil-b-4-punkte" class="md-nav__link">
+    <span class="md-ellipsis">
+      Aufgabenteil b (4 Punkte)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#aufgabenteil-c" class="md-nav__link">
+    <span class="md-ellipsis">
+      Aufgabenteil c
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#aufgabenteil-ca-3-punkte" class="md-nav__link">
+    <span class="md-ellipsis">
+      Aufgabenteil ca (3 Punkte)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#aufgabenteil-cb-2-punkte" class="md-nav__link">
+    <span class="md-ellipsis">
+      Aufgabenteil cb (2 Punkte)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#aufgabenteil-cc-2-punkte" class="md-nav__link">
+    <span class="md-ellipsis">
+      Aufgabenteil cc (2 Punkte)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#aufgabenteil-cd-3-punkte" class="md-nav__link">
+    <span class="md-ellipsis">
+      Aufgabenteil cd (3 Punkte)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#aufgabenteil-ce-4-punkte" class="md-nav__link">
+    <span class="md-ellipsis">
+      Aufgabenteil ce (4 Punkte)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#aufgabenteil-cf-2-punkte" class="md-nav__link">
+    <span class="md-ellipsis">
+      Aufgabenteil cf (2 Punkte)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-aufgabe-26-punkte" class="md-nav__link">
+    <span class="md-ellipsis">
+      2. Aufgabe (26 Punkte)
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="2. Aufgabe (26 Punkte)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#aufgabenteil-a-5-punkte" class="md-nav__link">
+    <span class="md-ellipsis">
+      Aufgabenteil a (5 Punkte)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#aufgabenteil-b-2-punkte" class="md-nav__link">
+    <span class="md-ellipsis">
+      Aufgabenteil b (2 Punkte)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#aufgabenteil-c-6-punkte" class="md-nav__link">
+    <span class="md-ellipsis">
+      Aufgabenteil c (6 Punkte)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#aufgabenteil-d-4-punkte" class="md-nav__link">
+    <span class="md-ellipsis">
+      Aufgabenteil d (4 Punkte)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#aufgabenteil-e" class="md-nav__link">
+    <span class="md-ellipsis">
+      Aufgabenteil e
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#aufgabenteil-ea-6-punkte" class="md-nav__link">
+    <span class="md-ellipsis">
+      Aufgabenteil ea (6 Punkte)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#aufgabenteil-eb-3-punkte" class="md-nav__link">
+    <span class="md-ellipsis">
+      Aufgabenteil eb (3 Punkte)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-aufgabe-punkte" class="md-nav__link">
+    <span class="md-ellipsis">
+      3. Aufgabe (Punkte)
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="3. Aufgabe (Punkte)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#aufgabenteil-a-3-punkte" class="md-nav__link">
+    <span class="md-ellipsis">
+      Aufgabenteil a (3 Punkte)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#aufgabenteil-b-3-punkte" class="md-nav__link">
+    <span class="md-ellipsis">
+      Aufgabenteil b (3 Punkte)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#aufgabenteil-c-4-punkte" class="md-nav__link">
+    <span class="md-ellipsis">
+      Aufgabenteil c (4 Punkte)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#aufgabenteil-d-3-punkte" class="md-nav__link">
+    <span class="md-ellipsis">
+      Aufgabenteil d (3 Punkte)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#aufgabenteil-e-4-punkte" class="md-nav__link">
+    <span class="md-ellipsis">
+      Aufgabenteil e (4 Punkte)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#aufgabenteil-f-3-punkte" class="md-nav__link">
+    <span class="md-ellipsis">
+      Aufgabenteil f (3 Punkte)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#aufgabenteil-g-4-punkte" class="md-nav__link">
+    <span class="md-ellipsis">
+      Aufgabenteil g (4 Punkte)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-aufgabe-26-punkte" class="md-nav__link">
+    <span class="md-ellipsis">
+      4. Aufgabe (26 Punkte)
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="4. Aufgabe (26 Punkte)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#aufgabenteil-a" class="md-nav__link">
+    <span class="md-ellipsis">
+      Aufgabenteil a
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#aufgabenteil-aa-4-punkte" class="md-nav__link">
+    <span class="md-ellipsis">
+      Aufgabenteil aa (4 Punkte)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#aufgabenteil-ab-2-punkte" class="md-nav__link">
+    <span class="md-ellipsis">
+      Aufgabenteil ab (2 Punkte)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#aufgabenteil-ac-4-punkte" class="md-nav__link">
+    <span class="md-ellipsis">
+      Aufgabenteil ac (4 Punkte)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#aufgabenteil-b" class="md-nav__link">
+    <span class="md-ellipsis">
+      Aufgabenteil b
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#aufgabenteil-ba-2-punkte" class="md-nav__link">
+    <span class="md-ellipsis">
+      Aufgabenteil ba (2 Punkte)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#aufgabenteil-bb-6-punkte" class="md-nav__link">
+    <span class="md-ellipsis">
+      Aufgabenteil bb (6 Punkte)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#aufgabenteil-bc-6-punkte" class="md-nav__link">
+    <span class="md-ellipsis">
+      Aufgabenteil bc (6 Punkte)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#aufgabenteil-bd-2-punkte" class="md-nav__link">
+    <span class="md-ellipsis">
+      Aufgabenteil bd (2 Punkte)
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+  
+
+
+<h1 id="losungshinweise-zu-ksm-it-system-management">Lösungshinweise zu KSM IT-System-Management</h1>
+<h2 id="probeprufung-nr-1-ksm-ap2-pb1">Probeprüfung Nr. 1 (KSM AP2 PB1)</h2>
+<h3 id="1-aufgabe-24-punkte">1. Aufgabe (24 Punkte)</h3>
+<h4 id="aufgabenteil-a-4-punkte">Aufgabenteil a (4 Punkte)</h4>
+<ol>
+<li>
+<p>Smarte Thermostate</p>
+</li>
+<li>
+<p>Automatisierte Temperaturregelung</p>
+</li>
+<li>Anpassung an Nutzergewohnheiten</li>
+<li>Senkung des Energieverbrauchs um 10-15 %</li>
+<li>
+<p>Remote-Steuerung möglich</p>
+</li>
+<li>
+<p>Intelligente Beleuchtungssysteme</p>
+</li>
+<li>
+<p>Automatisierte Beleuchtung basierend auf Anwesenheitssensoren</p>
+</li>
+<li>Anpassung an Tageszeit und natürliches Licht</li>
+<li>
+<p>Stromverbrauch für Beleuchtung um bis zu 50 % reduziert</p>
+</li>
+<li>
+<p>Energiemanagement-Sensoren</p>
+</li>
+<li>
+<p>Echtzeitüberwachung des Energieverbrauchs</p>
+</li>
+<li>Identifikation ineffizienter Geräte</li>
+<li>Energieverbrauch um bis zu 20 % senkbar</li>
+<li>
+<p>Daten zur Optimierung und Verbrauchsspitzen-Glättung</p>
+</li>
+<li>
+<p>Gebäude-Überwachungssoftware</p>
+</li>
+<li>
+<p>Integration und Analyse von Sensordaten</p>
+</li>
+<li>Visualisierung des Energieverbrauchs</li>
+<li>Echtzeit-Alarme und Optimierungsvorschläge</li>
+<li>Energieeinsparungen von 10-30 % möglich</li>
+</ol>
+<h4 id="aufgabenteil-b-4-punkte">Aufgabenteil b (4 Punkte)</h4>
+<p>Vorteile von WLAN:</p>
+<ul>
+<li>Flexibilität bei der Installation</li>
+<li>Einfachere und kostengünstigere Nachrüstung</li>
+<li>Keine Einschränkungen durch Kabelwege</li>
+<li>Mobilität der Geräte</li>
+<li>Geringerer baulicher Aufwand</li>
+</ul>
+<p>Nachteile von WLAN:</p>
+<ul>
+<li>Anfälliger für Störungen und Interferenzen</li>
+<li>Begrenzte Reichweite im Vergleich zu kabelgebundenen Verbindungen</li>
+<li>Höherer Energieverbrauch der Geräte</li>
+<li>Sicherheitsrisiken bei unzureichender Verschlüsselung</li>
+<li>Potenziell geringere Übertragungsgeschwindigkeit und Stabilität</li>
+</ul>
+<h4 id="aufgabenteil-c">Aufgabenteil c</h4>
+<h4 id="aufgabenteil-ca-3-punkte">Aufgabenteil ca (3 Punkte)</h4>
+<ul>
+<li>Ein Mesh-Netzwerk besteht aus mehreren Zugangspunkten (Nodes), die sich drahtlos miteinander verbinden.</li>
+<li>Diese Nodes leiten Datenpakete untereinander weiter, um eine flächendeckende WLAN-Abdeckung zu gewährleisten.</li>
+<li>Jeder Node agiert als Relaisstation, wodurch eine flexible und erweiterbare Netzwerkinfrastruktur entsteht.</li>
+</ul>
+<h4 id="aufgabenteil-cb-2-punkte">Aufgabenteil cb (2 Punkte)</h4>
+<ul>
+<li>Der sogenannte "Seamless Roaming"-Mechanismus ermöglicht es Endgeräten, nahtlos von einer Funkzelle zur nächsten zu wechseln.</li>
+<li>Die Verbindung bleibt dabei stabil und ununterbrochen, was für den Benutzer eine kontinuierliche Sitzung ohne Unterbrechung sicherstellt.</li>
+</ul>
+<h4 id="aufgabenteil-cc-2-punkte">Aufgabenteil cc (2 Punkte)</h4>
+<ul>
+<li>Ein echtes Mesh-Netzwerk benötigt mindestens zwei alternative Pfade zwischen den Nodes.</li>
+<li>Damit dies funktioniert, sind mindestens drei Zugangspunkte erforderlich, um Redundanz zu schaffen und Daten flexibel weiterleiten zu können.</li>
+</ul>
+<h4 id="aufgabenteil-cd-3-punkte">Aufgabenteil cd (3 Punkte)</h4>
+<ul>
+<li>Ein Tri-Band-System verwendet unterschiedliche Frequenzbänder, um Stabilität und Effizienz zu gewährleisten.</li>
+<li>Die Verbindung zwischen den Nodes erfolgt über einen hohen Kanal im 5 GHz-Bereich, während die Datenübertragung für WLAN-Clients über das 2.4 GHz-Band und einen unteren Kanal im 5 GHz-Bereich erfolgt.</li>
+</ul>
+<h4 id="aufgabenteil-ce-4-punkte">Aufgabenteil ce (4 Punkte)</h4>
+<ul>
+<li>"Mesh-Steering" bezieht sich auf die gezielte Steuerung der Endgeräte durch das Mesh-Netzwerk.</li>
+<li>Der Ansatz sorgt dafür, dass Clients automatisch mit dem optimalen Zugangspunkt verbunden werden, was die Netzwerkstabilität und Performance verbessert.</li>
+</ul>
+<h4 id="aufgabenteil-cf-2-punkte">Aufgabenteil cf (2 Punkte)</h4>
+<ul>
+<li>Die Kompatibilität zwischen Komponenten unterschiedlicher Hersteller ist oft eingeschränkt, da diese möglicherweise proprietäre Protokolle oder Standards verwenden.</li>
+<li>Für eine reibungslose Interoperabilität ist es ratsam, Geräte desselben Herstellers oder solcher zu nutzen, die kompatible Standards wie IEEE 802.11s unterstützen.</li>
+</ul>
+<h3 id="2-aufgabe-26-punkte">2. Aufgabe (26 Punkte)</h3>
+<h4 id="aufgabenteil-a-5-punkte">Aufgabenteil a (5 Punkte)</h4>
+<ul>
+<li>Subnetz in CIDR-Schreibweise für den Showroom: 172.18.3.0/24 (oder alles mit 0 und von 3 bis 255 richtig)</li>
+<li>IP-Adresse und Subnetzmaske für ...</li>
+<li>WLAN Access-Point: 172.18.3.1</li>
+<li>Raspberry Pi: 172.18.3.2</li>
+<li>ZigBee IP-Bridge: 172.18.3.3</li>
+<li>KNX IP-Interface: 172.18.3.4</li>
+</ul>
+<p>Keine Dopplungen der IP-Adressen, IP-Adressen müssen aus dem korrekten Subnetz stammen.</p>
+<h4 id="aufgabenteil-b-2-punkte">Aufgabenteil b (2 Punkte)</h4>
+<p>Um die drahtlosen ZigBee-Geräte in das Netzwerk zu integrieren, wird das OSI-7-Schichten-Modell als Grundlage verwendet. ZigBee baut wie Bluetooth auf dem IEEE-Standard 802.15.4 auf, der die unteren beiden OSI-Schichten abdeckt.</p>
+<p>Ergänzen Sie in der folgenden Tabelle die Namen der fehlenden OSI-Schichten, um das OSI-Modell vollständig darzustellen.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Schicht</th>
+<th style="text-align: left;">Name</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">7</td>
+<td style="text-align: left;">Anwendungsschicht</td>
+</tr>
+<tr>
+<td style="text-align: center;">6</td>
+<td style="text-align: left;">Darstellungsschicht</td>
+</tr>
+<tr>
+<td style="text-align: center;">5</td>
+<td style="text-align: left;">Sitzungsschicht</td>
+</tr>
+<tr>
+<td style="text-align: center;">4</td>
+<td style="text-align: left;">Transportschicht</td>
+</tr>
+<tr>
+<td style="text-align: center;">3</td>
+<td style="text-align: left;">Netzwerkschicht / Vermittlungsschicht</td>
+</tr>
+<tr>
+<td style="text-align: center;">2</td>
+<td style="text-align: left;">Sicherungsschicht</td>
+</tr>
+<tr>
+<td style="text-align: center;">1</td>
+<td style="text-align: left;">Bitübertragungsschicht</td>
+</tr>
+</tbody>
+</table>
+<h4 id="aufgabenteil-c-6-punkte">Aufgabenteil c (6 Punkte)</h4>
+<p><em>Sensoren:</em></p>
+<ul>
+<li>Grundlegende Funktion: Sensoren erfassen physikalische oder umgebungsbedingte Veränderungen und wandeln diese in elektrische Signale um. Diese Signale werden dann an ein zentrales Steuersystem oder an Aktoren weitergeleitet, um eine Reaktion auszulösen.</li>
+<li>Beispiel: Ein Bewegungsmelder erkennt Bewegung in einem Raum und sendet ein Signal an ein Smart-Home-System, um Aktionen wie das Einschalten der Beleuchtung auszulösen.</li>
+</ul>
+<p><em>Aktoren:</em></p>
+<ul>
+<li>Grundlegende Funktion: Aktoren setzen empfangene Signale in physische Aktionen um, indem sie mechanische Bewegungen oder andere Outputs ausführen. Sie sind für die Umsetzung von Steuerungsbefehlen zuständig, die von einem Steuerungssystem oder einem Sensor ausgelöst werden.</li>
+<li>Beispiel: Ein smarter Thermostat ist ein Aktor, der die Heizung basierend auf den Eingaben eines Temperatursensors steuert und die Raumtemperatur anpasst.</li>
+</ul>
+<h4 id="aufgabenteil-d-4-punkte">Aufgabenteil d (4 Punkte)</h4>
+<p><em>Bus-Topologie:</em></p>
+<ul>
+<li>Eigenschaften:</li>
+<li>Alle Geräte sind über eine gemeinsame Leitung (Bus) miteinander verbunden.</li>
+<li>Daten werden linear entlang dieser Leitung übertragen, und alle Geräte empfangen die gesendeten Signale.</li>
+<li>Kosteneffizient und einfach zu installieren, besonders bei kleineren Netzwerken.</li>
+<li>Ein einzelner Ausfall der Busleitung kann das gesamte Netzwerk beeinträchtigen.</li>
+<li>Beispiel neben KNX: CAN-Bus (z. B. in Fahrzeugen zur Steuerung von Elektroniksystemen)</li>
+</ul>
+<p><em>Stern-Topologie:</em></p>
+<ul>
+<li>Eigenschaften:</li>
+<li>Alle Geräte sind direkt mit einem zentralen Knoten (z. B. einem Router oder Switch) verbunden.</li>
+<li>Der zentrale Knoten steuert die Kommunikation und leitet Datenpakete zwischen den Geräten weiter.</li>
+<li>Höhere Ausfallsicherheit, da der Ausfall eines einzelnen Geräts das Netzwerk nicht beeinträchtigt. Ein Ausfall des zentralen Knotens führt jedoch zum Zusammenbruch des gesamten Netzwerks.</li>
+<li>Gut skalierbar und einfach zu erweitern.</li>
+<li>Beispiel neben ZigBee: WLAN-Heimnetzwerke (mit einem Router als zentralem Punkt)</li>
+</ul>
+<h4 id="aufgabenteil-e">Aufgabenteil e</h4>
+<h4 id="aufgabenteil-ea-6-punkte">Aufgabenteil ea (6 Punkte)</h4>
+<p>Als Nachteil der Nutzung von Smart-Home-Komponenten wird in der Regel der zusätzliche Energiebedarf angegeben. Hierbei gilt es also den Trade-Off zwischen Funktion und weiteren Kosten abzuwägen. Um im Showroom entsprechend argumentativ gerüstet zu sein, bereiten Sie eine Beispielrechnung vor.</p>
+<p>Berechnen Sie bei einem Strompreis von 28 Cent je Kilowattstunde und bei einem Preis von 0,55 EUR je AAA-Batterie die Energiekosten für den KNX-Einsatz auf der einen und den ZigBee-Einsatz auf der anderen Seite.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Gerät</th>
+<th style="text-align: center;">Anzahl</th>
+<th style="text-align: right;">Leistung</th>
+<th style="text-align: left;">Betriebsdauer</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">KNX-BUS Netzteil</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: right;">1,4 Watt</td>
+<td style="text-align: left;">24h / 365 Tage</td>
+</tr>
+<tr>
+<td style="text-align: left;">KNX-BUS IP-Interface</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: right;">0,9 Watt</td>
+<td style="text-align: left;">24h / 365 Tage</td>
+</tr>
+<tr>
+<td style="text-align: left;">KNX-BUS Binäreingang (8-fach)</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: right;">0,3 Watt</td>
+<td style="text-align: left;">24h / 365 Tage</td>
+</tr>
+<tr>
+<td style="text-align: left;">ZigBee Bridge</td>
+<td style="text-align: center;">1</td>
+<td style="text-align: right;">4 Watt</td>
+<td style="text-align: left;">24h / 365 Tage</td>
+</tr>
+<tr>
+<td style="text-align: left;">ZigBee Tür-/Fenster-Kontakt</td>
+<td style="text-align: center;">8</td>
+<td style="text-align: right;">1x AAA-Batterie/pa</td>
+<td style="text-align: left;">365 Tage</td>
+</tr>
+</tbody>
+</table>
+<p>Berechnen Sie den jährlich anfallenden Strombedarf in Kilowattstunden und die jährlichen Kosten je System.</p>
+<div class="arithmatex">\[ KNX Leistung = 1,4\,\text{W} + 0,9\,\text{W} + 0,3\,\text{W} = 2,6\,\text{W}$$  
+$$ KNX Energie = 2,6\,\text{W} * 24\,\text{h} * 365\,\text{Tage} = 22776\,\text{Wh} ≙ 22,78\,\text{kWh} $$
+$$ KNX Kosten pro Jahr = 22,78\,\text{kWh} * 0,28\,\text{EUR/kWh} = 6,38\,\text{EUR} \]</div>
+<div class="arithmatex">\[ ZigBee Leistung = 4\,\text{W} $$  
+$$ ZigBee Energie = 4\,\text{W} * 24\,\text{h} * 365\,\text{Tage} = 35040\,\text{Wh} ≙ 35,04\,\text{kWh} $$
+$$ ZigBee Kosten pro Jahr = \,\text{kWh} * 0,28\,\text{EUR/kWh} + 8\,\text{AAA-Batterien} * 0,55\,\text{EUR} = 39,44\,\text{EUR} \]</div>
+<h4 id="aufgabenteil-eb-3-punkte">Aufgabenteil eb (3 Punkte)</h4>
+<p>Bei entsprechender Begründung kann beides korrekt sein:</p>
+<p><em>Vorschlag für ein KNX-basiertes Smart-Home-System:</em></p>
+<ul>
+<li><strong>Empfohlene Kombination von Geräten:</strong> Smarte Thermostate, Beleuchtungssysteme, Rollladensteuerungen, Sicherheitskameras und Bewegungsmelder.</li>
+<li><strong>Begründung:</strong></li>
+<li>Stabilität und Zuverlässigkeit: KNX ist kabelgebunden und bietet daher eine extrem stabile und zuverlässige Verbindung, die besonders für größere Gebäude oder komplexe Installationen von Vorteil ist.</li>
+<li>Skalierbarkeit und Flexibilität: Das System ist flexibel erweiterbar und eignet sich hervorragend für die Integration einer Vielzahl von Geräten und Funktionen in einem komplexen Gebäudeautomatisierungssystem.</li>
+<li>Interoperabilität: KNX ist ein offener Standard, der die Integration von Geräten unterschiedlicher Hersteller ermöglicht, was eine größere Auswahl und Anpassungsmöglichkeiten bietet.</li>
+<li>Datensicherheit: Aufgrund der kabelgebundenen Kommunikation bietet KNX eine höhere Datensicherheit und ist weniger anfällig für drahtlose Störungen oder Angriffe.</li>
+</ul>
+<p><em>Vorschlag für ein ZigBee-basiertes Smart-Home-System:</em></p>
+<ul>
+<li><strong>Empfohlene Kombination von Geräten:</strong> Intelligente Beleuchtung, smarte Steckdosen, Tür- und Fenstersensoren, Bewegungsmelder und smarte Lautsprecher.</li>
+<li><strong>Begründung:</strong></li>
+<li>Einfache Installation und Flexibilität: ZigBee ist ein drahtloses System und eignet sich besonders gut für Nachrüstungen oder Mieter, da keine aufwendigen Kabelinstallationen erforderlich sind.</li>
+<li>Kosteneffizienz: Im Vergleich zu kabelgebundenen Systemen wie KNX sind die Installationskosten und die Gerätepreise oft günstiger, was es ideal für kleinere Smart-Home-Projekte macht.</li>
+<li>Mesh-Netzwerk-Funktionalität: ZigBee bietet eine Mesh-Netzwerkstruktur, bei der Geräte untereinander Signale weiterleiten, was die Abdeckung verbessert und die Kommunikation stabil hält.</li>
+<li>Energieeffizienz: ZigBee-Geräte sind in der Regel sehr stromsparend, was die Batterielebensdauer bei kabellosen Sensoren und Aktoren verlängert.</li>
+</ul>
+<h3 id="3-aufgabe-punkte">3. Aufgabe (Punkte)</h3>
+<h4 id="aufgabenteil-a-3-punkte">Aufgabenteil a (3 Punkte)</h4>
+<ul>
+<li>Stars (Sterne)</li>
+<li>Cash Cows (Milchkühe)</li>
+<li>Dogs (Arme Hunde)</li>
+</ul>
+<h4 id="aufgabenteil-b-3-punkte">Aufgabenteil b (3 Punkte)</h4>
+<ul>
+<li><strong>Hohes Marktwachstum:</strong> Der Smart-Home-Markt wächst kontinuierlich durch das steigende Interesse an Automatisierung und Energieeffizienz. Neue Technologien und Innovationen treiben dieses Wachstum an.</li>
+<li><strong>Geringer Marktanteil:</strong> Trotz des wachsenden Marktes haben viele Produkte in dieser Kategorie noch keine signifikante Marktstellung erlangt. Dies liegt an der starken Konkurrenz und der Vielzahl neuer Anbieter und Technologien.</li>
+<li><strong>Hohe Investitionsanforderungen:</strong> Smart-Home-Produkte erfordern oft umfangreiche Investitionen in Forschung, Entwicklung und Marketing, um wettbewerbsfähig zu sein und die Verbraucher zu überzeugen.</li>
+<li><strong>Unsicherheit hinsichtlich der Akzeptanz:</strong> Produkte in dieser Kategorie stehen vor der Herausforderung, sich gegen etablierte Technologien durchzusetzen und breite Akzeptanz bei den Verbrauchern zu finden. Es ist unklar, ob sie genügend Marktanteile gewinnen können, um sich zu lohnen.</li>
+<li><strong>Möglichkeit, zu "Stars" zu werden:</strong> Wenn ein Smart-Home-Produkt durch strategische Investitionen und erfolgreiche Positionierung seine Marktstellung verbessert, kann es zu einem „Star“ aufsteigen, was hohe Umsätze und Gewinne zur Folge hat.</li>
+<li><strong>Hohe Risiken:</strong> Aufgrund des Wettbewerbs und der schnellen technologischen Entwicklungen besteht die Gefahr, dass ein Produkt nicht die erwartete Akzeptanz erhält und langfristig eher zu einem "Poor Dog" wird.</li>
+</ul>
+<h4 id="aufgabenteil-c-4-punkte">Aufgabenteil c (4 Punkte)</h4>
+<p><strong>Investitionsstrategie zur Marktdurchdringung</strong></p>
+<ul>
+<li><strong>Beschreibung:</strong> Diese Strategie beinhaltet gezielte Investitionen in Werbung, Produktentwicklung und Marktanalysen, um den Marktanteil der neuen Produktgruppe zu steigern. Dies kann durch intensive Marketingkampagnen, Promotions und Kooperationen mit anderen Smart-Home-Marken erfolgen, um die Bekanntheit zu erhöhen und das Vertrauen der Verbraucher zu gewinnen.</li>
+<li><strong>Eignung für "Question Marks":</strong> Da "Question Marks" sich in einem wachsenden Markt befinden, jedoch noch keinen großen Marktanteil besitzen, ist es entscheidend, diesen schnell zu vergrößern. Durch umfangreiche Investitionen wird die Position der Produktgruppe gestärkt und es besteht die Chance, sie zu einem "Star" zu entwickeln. Der Fokus auf Markenbildung und Produktbekanntheit hilft, sich von Wettbewerbern abzuheben und eine loyale Kundenbasis aufzubauen.</li>
+</ul>
+<p><strong>2. Differenzierungsstrategie</strong></p>
+<ul>
+<li><strong>Beschreibung:</strong> Diese Strategie zielt darauf ab, die Produktgruppe durch einzigartige Merkmale und Vorteile von den Wettbewerbern abzuheben. Dies kann durch innovative Features, eine benutzerfreundliche Bedienoberfläche, verbesserte Sicherheit oder die Integration neuer Technologien erreicht werden. Ein gezieltes Content-Marketing mit Demonstrationen, Tutorials und Erfahrungsberichten ist ebenfalls Teil dieser Strategie, um die Alleinstellungsmerkmale hervorzuheben.</li>
+<li><strong>Eignung für "Question Marks":</strong> Die Differenzierungsstrategie ist besonders geeignet, da "Question Marks" in einem umkämpften Markt operieren und es entscheidend ist, die Aufmerksamkeit der Verbraucher zu gewinnen. Ein klar erkennbarer Mehrwert kann den Marktanteil steigern und dazu beitragen, das Produkt zu einem „Star“ zu machen. Diese Strategie spricht gezielt technikaffine Kunden an, die nach Innovationen suchen und bereit sind, in Smart-Home-Lösungen zu investieren, die über Basisfunktionen hinausgehen.</li>
+</ul>
+<h4 id="aufgabenteil-d-3-punkte">Aufgabenteil d (3 Punkte)</h4>
+<p><strong>1. Zentralisierte Kundeninformation:</strong></p>
+<ul>
+<li><strong>Erklärung:</strong> Ein CRM-System sammelt und verwaltet alle Kundendaten zentral, einschließlich Kaufhistorien, Kontaktdaten, Präferenzen und Kommunikationshistorien. Dies ermöglicht ein umfassendes Verständnis der Kundenbedürfnisse.</li>
+<li><strong>Vorteil im Kundenkontakt:</strong> Vertriebsteams können maßgeschneiderte Empfehlungen geben und auf individuelle Kundenanfragen präzise eingehen, was das Vertrauen und die Zufriedenheit der Kunden stärkt.</li>
+</ul>
+<p><strong>2. Personalisierte Marketingkampagnen:</strong></p>
+<ul>
+<li><strong>Erklärung:</strong> CRM-Systeme ermöglichen die Segmentierung der Zielgruppe basierend auf verschiedenen Kriterien wie Interessen, Kaufverhalten und demografischen Merkmalen. Dies erlaubt eine zielgerichtete Ansprache.</li>
+<li><strong>Vorteil im Kundenkontakt:</strong> Kunden erhalten relevante Informationen und Angebote, die ihren individuellen Interessen entsprechen, was die Wahrscheinlichkeit von Kaufentscheidungen erhöht und die Kundenbindung stärkt.</li>
+</ul>
+<p><strong>3. Automatisierung von Marketing- und Vertriebsprozessen:</strong></p>
+<ul>
+<li><strong>Erklärung:</strong> CRM-Systeme können automatisierte Workflows für Follow-up-Mails, Erinnerungen oder Angebote erstellen, wodurch Marketing- und Vertriebsprozesse effizienter werden.</li>
+<li><strong>Vorteil im Kundenkontakt:</strong> Potenzielle Kunden fühlen sich durch automatisierte, aber personalisierte Nachrichten besser betreut, und das Unternehmen kann schnell auf Anfragen oder Aktionen reagieren.</li>
+</ul>
+<p><strong>4. Unterstützung im Kundenservice:</strong></p>
+<ul>
+<li><strong>Erklärung:</strong> Ein CRM-System bietet einen umfassenden Überblick über frühere Interaktionen mit dem Kunden, wodurch der Kundenservice gezielt auf bestehende Probleme oder Fragen eingehen kann.</li>
+<li><strong>Vorteil im Kundenkontakt:</strong> Kunden erleben einen besseren und schnelleren Service, da Servicemitarbeiter über alle relevanten Informationen verfügen und personalisierte Lösungen anbieten können.</li>
+</ul>
+<p><strong>5. Verbesserte Kundenbindung durch Nachverfolgung:</strong></p>
+<ul>
+<li><strong>Erklärung:</strong> CRM-Systeme unterstützen die Nachverfolgung von Kundenfeedback und das Monitoring von Kundeninteraktionen nach dem Verkauf.</li>
+<li><strong>Vorteil im Kundenkontakt:</strong> Durch aktives Feedbackmanagement kann das Unternehmen Probleme schnell lösen und sicherstellen, dass Kunden zufrieden bleiben, was die Loyalität erhöht und zu Folgekäufen führen kann.</li>
+</ul>
+<p><strong>6. Analyse und Optimierung von Marketing-Strategien:</strong></p>
+<ul>
+<li><strong>Erklärung:</strong> CRM-Systeme bieten umfassende Berichts- und Analysefunktionen, um den Erfolg von Marketingmaßnahmen zu messen und Anpassungen vorzunehmen.</li>
+<li><strong>Vorteil im Kundenkontakt:</strong> Das Unternehmen kann besser auf Marktveränderungen reagieren und Kampagnen kontinuierlich optimieren, was die Chancen auf eine erfolgreiche Markteinführung erhöht.</li>
+</ul>
+<h4 id="aufgabenteil-e-4-punkte">Aufgabenteil e (4 Punkte)</h4>
+<p><strong>1. Cross-Selling:</strong></p>
+<ul>
+<li><strong>Definition:</strong> Cross-Selling bezeichnet die Strategie, einem Kunden ergänzende Produkte oder Dienstleistungen anzubieten, die zu seinem ursprünglichen Kauf passen oder diesen sinnvoll ergänzen.</li>
+<li><strong>Einsatz im Kontext der Portfolioerweiterung:</strong> Wenn die TechHome Solutions AG neue Lichtsteuerungssysteme in ihr Angebot aufnimmt, könnten sie diese Strategie nutzen, indem sie bestehenden Kunden, die bereits andere Smart-Home-Geräte (z. B. smarte Thermostate oder Sicherheitssysteme) gekauft haben, die neuen Lichtsteuerungen als sinnvolle Ergänzung anbieten. Beispielsweise könnte Kunden, die ein smartes Sicherheitssystem besitzen, ein Paket mit integrierten Bewegungsmeldern und Lichtsteuerungen angeboten werden, um die Sicherheitsfunktionen zu erweitern und die Beleuchtung automatisiert zu steuern.</li>
+</ul>
+<p><strong>2. Up-Selling:</strong></p>
+<ul>
+<li><strong>Definition:</strong> Up-Selling ist die Strategie, den Kunden zu überzeugen, ein teureres oder höherwertiges Produkt oder eine Version eines Produkts zu kaufen, das mehr Funktionen oder bessere Leistung bietet als die ursprüngliche Auswahl.</li>
+<li><strong>Einsatz im Kontext der Portfolioerweiterung:</strong> Bei der Einführung von Produkten mit erweiterten Funktionen kann die TechHome Solutions AG Up-Selling nutzen, indem sie bestehenden Kunden, die einfache smarte Beleuchtungssysteme verwenden, eine verbesserte Version mit erweiterten Funktionen wie Farbwechsel, Dimmfunktionen oder App-gesteuerten Szenen vorschlägt. Ein Beispiel wäre, einem Kunden, der eine einfache smarte Glühbirne gekauft hat, ein Upgrade auf ein System anzubieten, das mit Sprachsteuerung und anpassbaren Lichtprogrammen ausgestattet ist.</li>
+</ul>
+<h4 id="aufgabenteil-f-3-punkte">Aufgabenteil f (3 Punkte)</h4>
+<p><strong>1. Interaktive Produktpräsentationen und -demos:</strong>
+- <strong>Beschreibung:</strong> Die Website sollte interaktive Präsentationen und Demos enthalten, die die Funktionen der neuen Smart-Home-Produkte anschaulich darstellen. Dies könnte durch 3D-Modelle, Videos oder virtuelle Rundgänge erfolgen, bei denen die Nutzer sehen können, wie die neuen Lichtsteuerungssysteme und andere Produkte in realen Szenarien funktionieren.
+- <strong>Vorteil:</strong> Dies spricht visuell orientierte Kunden an und erhöht das Verständnis für die Anwendungsmöglichkeiten der Produkte, was die Kaufentscheidung positiv beeinflusst.</p>
+<p><strong>2. Personalisierte Produktempfehlungen und Bundles:</strong>
+- <strong>Beschreibung:</strong> Die Website könnte eine Funktion bieten, die personalisierte Produktempfehlungen basierend auf dem bisherigen Kaufverhalten oder den Präferenzen der Besucher anzeigt. Ebenso könnten spezielle Bundles erstellt werden, die neue Produkte mit bereits beliebten Artikeln kombinieren, um Cross-Selling-Potenziale zu nutzen.
+- <strong>Vorteil:</strong> Dies hilft, Kunden gezielt anzusprechen und fördert den Verkauf komplementärer Produkte, indem es zeigt, wie die neuen Produkte das bestehende Smart-Home-System des Kunden ergänzen.</p>
+<p><strong>3. Kundenbewertungen und Erfahrungsberichte:</strong>
+- <strong>Beschreibung:</strong> Die Website sollte eine Sektion enthalten, in der frühzeitige Anwender der neuen Produkte ihre Bewertungen und Erfahrungsberichte teilen können. Diese Inhalte könnten durch ein Bewertungssystem und Video-Testimonials ergänzt werden.
+- <strong>Vorteil:</strong> Authentische Kundenmeinungen schaffen Vertrauen und liefern potenziellen Käufern wertvolle Einblicke in die tatsächliche Nutzung der Produkte. Positive Bewertungen steigern die Glaubwürdigkeit und fördern den Kauf.</p>
+<h4 id="aufgabenteil-g-4-punkte">Aufgabenteil g (4 Punkte)</h4>
+<p><strong>1. Online-Marktplätze (z. B. Amazon, eBay):</strong>
+- <strong>Begründung:</strong> Diese Plattformen haben eine enorme Reichweite und ermöglichen es der TechHome Solutions AG, ein großes Publikum anzusprechen, das gezielt nach Smart-Home-Produkten sucht. Die Präsenz auf etablierten Marktplätzen erhöht die Sichtbarkeit und erleichtert den Zugang zu potenziellen Käufern, die eine vertraute Plattform für ihre Einkäufe bevorzugen.</p>
+<p><strong>2. Partnerschaften mit Elektronikfachhändlern (z. B. MediaMarkt, Saturn):</strong>
+- <strong>Begründung:</strong> Durch den Vertrieb über bekannte Elektronikketten kann die TechHome Solutions AG von deren bestehendem Kundenstamm und Vertriebsnetz profitieren. Der physische Zugang zu den Produkten in den Läden ermöglicht es den Kunden, sich direkt ein Bild von der Qualität zu machen und sich vor Ort beraten zu lassen, was den Kaufimpuls fördern kann.</p>
+<p><strong>3. Kooperation mit Smart-Home-Installationsdiensten:</strong>
+- <strong>Begründung:</strong> Der Vertrieb über spezialisierte Installationsdienste, die auch die Einrichtung von Smart-Home-Lösungen anbieten, spricht Kunden an, die umfassende Lösungen mit Installationsunterstützung bevorzugen. Diese Kooperationen ermöglichen es, Komplettpakete aus Produkt und Service anzubieten und den Verkauf durch eine Rundum-Dienstleistung zu fördern.</p>
+<p><strong>4. Eigener Online-Shop mit exklusiven Angeboten:</strong>
+- <strong>Begründung:</strong> Ein gut gestalteter eigener Online-Shop mit exklusiven Angeboten, Bundles und speziellen Rabatten kann die Kundenbindung stärken und höhere Margen ermöglichen. Durch die direkte Kontrolle über den Online-Shop kann die TechHome Solutions AG die Markenerfahrung personalisieren und spezielle Aktionen, wie Vorbestellungen oder limitierte Produkteinführungen, anbieten.</p>
+<p><strong>5. Vertrieb über Bau- und Möbelhäuser (z. B. Bauhaus, IKEA):</strong>
+- <strong>Begründung:</strong> Viele Bau- und Möbelhäuser bieten bereits smarte Lösungen an und ziehen Kunden an, die ihr Zuhause renovieren oder modernisieren wollen. Die Einführung der Smart-Home-Produkte in diesem Umfeld ermöglicht es, den Endkunden direkt bei der Hausgestaltung anzusprechen und Impulskäufe zu fördern.</p>
+<h3 id="4-aufgabe-26-punkte">4. Aufgabe (26 Punkte)</h3>
+<h4 id="aufgabenteil-a">Aufgabenteil a</h4>
+<h4 id="aufgabenteil-aa-4-punkte">Aufgabenteil aa (4 Punkte)</h4>
+<p><strong>Direkte Beschaffung</strong></p>
+<ul>
+<li><strong>Definition:</strong> Bei der direkten Beschaffung erfolgt die Bestellung unmittelbar beim Hersteller oder Produzenten der Ware oder Dienstleistung.</li>
+<li><strong>Merkmale:</strong></li>
+<li>Es gibt keine Zwischenhändler.</li>
+<li>Der Kontakt erfolgt direkt mit dem Lieferanten, der die Ware produziert.</li>
+<li>Oft kosteneffizienter, da keine Margen für Zwischenhändler gezahlt werden müssen.</li>
+<li>Beispiele: Ein Unternehmen bestellt Stahl direkt bei einem Stahlwerk oder Software direkt beim Hersteller.</li>
+</ul>
+<p><strong>Indirekte Beschaffung</strong></p>
+<ul>
+<li><strong>Definition:</strong> Bei der indirekten Beschaffung wird die Ware oder Dienstleistung über einen Zwischenhändler oder eine Handelsorganisation bestellt.</li>
+<li><strong>Merkmale:</strong></li>
+<li>Es gibt mindestens eine vermittelnde Instanz zwischen dem Unternehmen und dem Produzenten.</li>
+<li>Kann höhere Kosten verursachen, aber oft mit Vorteilen wie geringeren administrativen Aufwand oder einem breiteren Sortiment verbunden.</li>
+<li>Beispiele: Ein Unternehmen kauft Büromaterial bei einem Großhändler oder IT-Komponenten bei einem spezialisierten Reseller.</li>
+</ul>
+<h4 id="aufgabenteil-ab-2-punkte">Aufgabenteil ab (2 Punkte)</h4>
+<p><strong>Vorteile der direkten Beschaffung</strong></p>
+<ul>
+<li><strong>Kostenersparnis durch Wegfall von Zwischenhändlern:</strong> Da die TechHome Solutions AG direkt beim Hersteller bestellt, entfallen Margen und Aufschläge von Zwischenhändlern. Dies ist besonders relevant bei größeren Stückzahlen oder hochpreisigen Komponenten, wie beispielsweise Smart-Home-Hardware oder IT-Infrastruktur. Die direkten Verhandlungen ermöglichen zudem günstigere Konditionen.</li>
+<li><strong>Bessere Kontrolle über Qualität und Innovationen:</strong> Durch den direkten Kontakt mit Herstellern kann die TechHome Solutions AG frühzeitig auf neue Technologien und Innovationen zugreifen. Außerdem ist eine direkte Kommunikation über Qualitätsanforderungen und Produktanpassungen möglich, was die Wettbewerbsfähigkeit stärkt.</li>
+</ul>
+<p><strong>Vorteile der indirekten Beschaffung</strong></p>
+<ul>
+<li><strong>Breitere Produktverfügbarkeit und geringerer Aufwand:</strong> Über Zwischenhändler hat die TechHome Solutions AG Zugriff auf ein breiteres Sortiment unterschiedlicher Hersteller, ohne mit jedem einzelnen Produzenten verhandeln zu müssen. Dies reduziert den administrativen Aufwand und vereinfacht die Beschaffung, insbesondere bei einer Vielzahl von benötigten Komponenten.</li>
+<li><strong>Schnellere Lieferzeiten und Bündelung von Dienstleistungen:</strong> Händler können oft größere Mengen vorrätig halten und schnell liefern. Zudem bieten sie Zusatzleistungen wie Lagerung, Finanzierung oder technischen Support, die der TechHome Solutions AG Zeit und Ressourcen sparen.</li>
+</ul>
+<h4 id="aufgabenteil-ac-4-punkte">Aufgabenteil ac (4 Punkte)</h4>
+<p>B2B-Marktplatz: Ein B2B-Marktplatz ist eine digitale Plattform, auf der Unternehmen Produkte und Dienstleistungen direkt miteinander handeln können. Im Gegensatz zu B2C-Marktplätzen, die Endverbraucher ansprechen, richtet sich ein B2B-Marktplatz ausschließlich an Geschäftskunden und bietet eine zentrale Anlaufstelle für den Einkauf von Waren und Dienstleistungen, oft mit speziellen Funktionen wie Preisverhandlungen, Mengenrabatten und langfristigen Verträgen.</p>
+<ul>
+<li><strong>Breite Produkt- und Dienstleistungsauswahl:</strong></li>
+<li>Zugang zu einer Vielzahl von Lieferanten und Produkten aus unterschiedlichen Branchen und Regionen.</li>
+<li><strong>Kostenersparnis:</strong></li>
+<li>Möglichkeit, Angebote zu vergleichen und wettbewerbsfähige Preise zu finden, was die Beschaffungskosten senken kann.</li>
+<li><strong>Schnelle Beschaffungsprozesse:</strong></li>
+<li>Vereinfachte und beschleunigte Einkaufsprozesse durch digitale Transaktionen und automatisierte Bestellabwicklung.</li>
+<li><strong>Transparenz und Vergleichbarkeit:</strong></li>
+<li>Bessere Übersicht über Preise, Produktdetails und Lieferbedingungen zur Unterstützung fundierter Entscheidungen.</li>
+<li><strong>Flexibilität und Verfügbarkeit:</strong></li>
+<li>24/7-Zugang zur Plattform ermöglicht flexible Beschaffung unabhängig von Geschäftszeiten.</li>
+<li><strong>Netzwerk und Partnerschaften:</strong></li>
+<li>Möglichkeit, neue Geschäftskontakte zu knüpfen und langfristige Partnerschaften mit Lieferanten aufzubauen.</li>
+<li><strong>Reduzierter Verwaltungsaufwand:</strong></li>
+<li>Integration in bestehende ERP-Systeme kann den Verwaltungsaufwand verringern und die Effizienz steigern.</li>
+</ul>
+<h4 id="aufgabenteil-b">Aufgabenteil b</h4>
+<h4 id="aufgabenteil-ba-2-punkte">Aufgabenteil ba (2 Punkte)</h4>
+<p><strong>Vorteile der Digitalisierung für die Beschaffung:</strong>
+- <strong>Automatisierte Bestellprozesse:</strong> Schnellere und effizientere Bestellungen durch automatisierte Systeme.
+- <strong>Echtzeitdaten und Transparenz:</strong> Übersicht über den aktuellen Status von Bestellungen und Lieferungen in Echtzeit.
+- <strong>Optimierte Lieferantenkommunikation:</strong> Schnellerer Austausch von Informationen und Dokumenten mit Lieferanten durch digitale Plattformen.
+- <strong>Datenanalyse und Prognosen:</strong> Nutzung von Algorithmen zur Vorhersage von Bedarf und Bestellmengen auf Basis historischer Daten.
+- <strong>Kostensenkung:</strong> Reduzierung manueller Prozesse spart Zeit und senkt Verwaltungsaufwand und Kosten.</p>
+<p><strong>Optimierung des Bestandsmanagements durch Digitalisierung:</strong>
+- <strong>Echtzeit-Überwachung des Lagerbestands:</strong> Transparente Übersicht über den aktuellen Lagerbestand zur Vermeidung von Über- oder Unterbeständen.
+- <strong>Bedarfsgesteuerte Nachbestellung:</strong> Automatisierte Nachbestellungen basierend auf definierten Mindestbeständen und Nachfrageprognosen.
+- <strong>Just-in-Time-Beschaffung:</strong> Reduzierung der Lagerkosten durch Lieferung von Materialien und Produkten genau dann, wenn sie benötigt werden.
+- <strong>Bessere Planung und Variantenmanagement:</strong> Digitalisierung ermöglicht eine genaue Planung und Verwaltung von verschiedenen Produktvarianten, um die Lagerhaltung minimal zu halten.
+- <strong>Optimierte Lagerverwaltung:</strong> Effizientere Einlagerung, Auslagerung und Bestandskontrolle durch digitale Systeme und Barcode/RFID-Technologien.</p>
+<h4 id="aufgabenteil-bb-6-punkte">Aufgabenteil bb (6 Punkte)</h4>
+<p><strong>Unterschiede zwischen auftragsbezogener und vorratsbezogener Beschaffung:</strong></p>
+<ul>
+<li><strong>Auftragsbezogene Beschaffung:</strong></li>
+<li><strong>Definition:</strong> Materialien oder Produkte werden erst dann beschafft, wenn ein konkreter Auftrag vorliegt.</li>
+<li><strong>Vorteile:</strong> Reduzierte Lagerkosten, da keine Überbestände entstehen; geringeres Risiko der Kapitalbindung; flexibel auf Kundenwünsche anpassbar.</li>
+<li>
+<p><strong>Nachteile:</strong> Längere Lieferzeiten, da die Beschaffung erst nach Auftragseingang erfolgt; potenzielle Lieferengpässe, die die Erfüllung von Aufträgen verzögern könnten.</p>
+</li>
+<li>
+<p><strong>Vorratsbezogene Beschaffung:</strong></p>
+</li>
+<li><strong>Definition:</strong> Materialien oder Produkte werden auf Lager beschafft, um eine kontinuierliche Verfügbarkeit zu gewährleisten.</li>
+<li><strong>Vorteile:</strong> Kurze Lieferzeiten für Kunden, da die Produkte sofort verfügbar sind; besser planbare Produktionsprozesse.</li>
+<li><strong>Nachteile:</strong> Höhere Lagerkosten und Kapitalbindung; Risiko von Überbeständen und veralteten Produkten.</li>
+</ul>
+<p><strong>Empfehlung für das Basispaket der TechHome Solutions AG:</strong> Vorratsbezogene Beschaffung</p>
+<p><strong>Begründung:</strong>
+- Das Basispaket stellt wahrscheinlich die am häufigsten nachgefragte Produktvariante dar und muss kurzfristig verfügbar sein, um die Kundenzufriedenheit zu gewährleisten.
+- Durch eine vorratsbezogene Beschaffung kann die TechHome Solutions AG sicherstellen, dass gängige Basispakete ohne Verzögerung geliefert werden können, was den Kundenservice verbessert und den Absatz steigert.
+- Obwohl höhere Lagerkosten anfallen, können diese durch die kontinuierliche Nachfrage kompensiert werden. Zudem ermöglicht eine vorratsbezogene Beschaffung, Produktionsprozesse zu optimieren und Schwankungen in der Nachfrage besser aufzufangen.</p>
+<h4 id="aufgabenteil-bc-6-punkte">Aufgabenteil bc (6 Punkte)</h4>
+<p><strong>Single-Sourcing:</strong>
+- <strong>Beschreibung:</strong> Beschaffung von Waren oder Dienstleistungen von nur einem Lieferanten.
+- <strong>Vorteile:</strong> Starke Lieferantenbeziehung, bessere Verhandlungsbedingungen, vereinfachte Kommunikation.
+- <strong>Nachteile:</strong> Abhängigkeit von einem Lieferanten, erhöhtes Risiko bei Lieferproblemen.
+- <strong>Beispiel:</strong> Ein Hersteller bezieht exklusive elektronische Bauteile nur von einem spezialisierten Zulieferer.</p>
+<p><strong>Multi-Sourcing:</strong>
+- <strong>Beschreibung:</strong> Beschaffung von Waren oder Dienstleistungen von mehreren Lieferanten.
+- <strong>Vorteile:</strong> Geringere Abhängigkeit von einem Lieferanten, bessere Verhandlungsposition, erhöhte Versorgungssicherheit.
+- <strong>Nachteile:</strong> Erhöhter Verwaltungsaufwand, komplexere Logistik.
+- <strong>Beispiel:</strong> Ein Unternehmen bezieht Mikroprozessoren von mehreren Anbietern, um Versorgungssicherheit zu gewährleisten.</p>
+<p><strong>Local-Sourcing:</strong>
+- <strong>Beschreibung:</strong> Beschaffung von Waren oder Dienstleistungen von Lieferanten in der geografischen Nähe.
+- <strong>Vorteile:</strong> Kürzere Lieferzeiten, geringere Transportkosten, Unterstützung der lokalen Wirtschaft.
+- <strong>Nachteile:</strong> Möglicherweise höhere Kosten im Vergleich zu internationalen Lieferanten.
+- <strong>Beispiel:</strong> Ein Unternehmen kauft Verpackungsmaterialien bei einem regionalen Hersteller, um die Lieferkette zu verkürzen.</p>
+<p><strong>Preferential-Sourcing:</strong>
+- <strong>Beschreibung:</strong> Beschaffung bevorzugt von Lieferanten, die bestimmte Kriterien erfüllen (z. B. Nachhaltigkeit, ethische Standards).
+- <strong>Vorteile:</strong> Unterstützung von Unternehmenswerten, positive Imagewirkung, Beitrag zu sozialen und ökologischen Zielen.
+- <strong>Nachteile:</strong> Möglicherweise höhere Kosten, begrenzte Anzahl qualifizierter Lieferanten.
+- <strong>Beispiel:</strong> Ein Unternehmen bezieht Rohstoffe ausschließlich von Lieferanten, die nachweislich nachhaltige Praktiken anwenden.</p>
+<h4 id="aufgabenteil-bd-2-punkte">Aufgabenteil bd (2 Punkte)</h4>
+<p><strong>1. E-Procurement-Plattformen:</strong>
+- <strong>Nutzen:</strong> Automatisierung des gesamten Beschaffungsprozesses, von der Bestellung bis zur Bezahlung.
+- <strong>Vorteil für TechHome Solutions AG:</strong> Reduzierte Bearbeitungszeit und Verwaltungskosten, bessere Übersicht und Kontrolle über alle Bestellungen.</p>
+<p><strong>2. Cloud-basierte ERP-Systeme:</strong>
+- <strong>Nutzen:</strong> Integrierte Datenplattform zur Verwaltung von Beschaffungs-, Lager- und Bestandsmanagement.
+- <strong>Vorteil für TechHome Solutions AG:</strong> Echtzeit-Überwachung der Lagerbestände, effiziente Planung und Optimierung der Lieferketten.</p>
+<p><strong>3. E-Auctions (elektronische Auktionen):</strong>
+- <strong>Nutzen:</strong> Online-Plattformen zur Durchführung von Auktionen zur Ermittlung der besten Preise von Lieferanten.
+- <strong>Vorteil für TechHome Solutions AG:</strong> Kosteneinsparungen durch Wettbewerb unter Lieferanten, bessere Verhandlungsposition.</p>
+<p><strong>4. Künstliche Intelligenz (KI) und Machine Learning:</strong>
+- <strong>Nutzen:</strong> Analyse von großen Datenmengen zur Vorhersage von Nachfrageschwankungen und Optimierung der Beschaffung.
+- <strong>Vorteil für TechHome Solutions AG:</strong> Verbesserte Bedarfsvorhersagen und proaktive Beschaffungsstrategien, Minimierung von Engpässen.</p>
+<p><strong>5. Blockchain-Technologie:</strong>
+- <strong>Nutzen:</strong> Sicherstellung der Transparenz und Rückverfolgbarkeit der Lieferkette.
+- <strong>Vorteil für TechHome Solutions AG:</strong> Erhöhte Sicherheit und Vermeidung von Betrug, Nachverfolgbarkeit der Herkunft und Qualität der eingekauften Materialien.</p>
+<p><strong>6. IoT (Internet of Things):</strong>
+- <strong>Nutzen:</strong> Automatisierte Erfassung von Lagerbeständen und Bestellungen durch smarte Sensoren.
+- <strong>Vorteil für TechHome Solutions AG:</strong> Automatisierte Nachbestellung bei niedrigem Lagerbestand, Echtzeit-Daten für effizienteres Bestandsmanagement.</p>
+<p><strong>7. E-Signaturen und digitale Vertragsmanagementsysteme:</strong>
+- <strong>Nutzen:</strong> Ermöglicht rechtssichere digitale Signaturen und Verwaltung von Verträgen online.
+- <strong>Vorteil für TechHome Solutions AG:</strong> Beschleunigte Vertragsabschlüsse und weniger Papieraufwand, verbesserte Nachverfolgbarkeit von Vertragsänderungen.</p>
+<p><strong>8. Mobile Beschaffungs-Apps:</strong>
+- <strong>Nutzen:</strong> Zugriff auf Beschaffungsplattformen und Genehmigungsprozesse von unterwegs.
+- <strong>Vorteil für TechHome Solutions AG:</strong> Höhere Flexibilität und schnelle Entscheidungen, verbesserte Effizienz für das Beschaffungsteam.</p>
+<p>Die folgenden Begriffe wurden in der bisherigen Antwort noch nicht erklärt:</p>
+<p><strong>9. Vergleichsportale:</strong>
+- <strong>Nutzen:</strong> Plattformen zur Analyse und zum Vergleich von Preisen und Leistungen verschiedener Lieferanten.
+- <strong>Vorteil für TechHome Solutions AG:</strong> Ermöglicht eine schnelle und effiziente Auswahl des besten Angebots, Optimierung der Einkaufspreise und bessere Transparenz bei der Lieferantenauswahl.</p>
+<p><strong>10. EDI (Electronic Data Interchange):</strong>
+- <strong>Nutzen:</strong> Standardisiertes, elektronisches Format für den Austausch von Geschäftsdokumenten zwischen Unternehmen.
+- <strong>Vorteil für TechHome Solutions AG:</strong> Automatisierte und fehlerfreie Übermittlung von Bestellungen, Rechnungen und anderen Dokumenten, was den Verwaltungsaufwand und die Bearbeitungszeiten erheblich reduziert.</p>
+<p><strong>11. EBANF (Elektronischer Bestellanforderungsschein):</strong>
+- <strong>Nutzen:</strong> Digitale Übermittlung und Genehmigung von Bestellanforderungen innerhalb eines Unternehmens.
+- <strong>Vorteil für TechHome Solutions AG:</strong> Erhöht die Effizienz der internen Freigabeprozesse und reduziert den Papierverbrauch durch digitale Genehmigungsworkflows.</p>
+<p><strong>12. E-Kanban:</strong>
+- <strong>Nutzen:</strong> Digitales Kanban-System zur Verwaltung und Automatisierung der Nachbestellung und Lagerauffüllung.
+- <strong>Vorteil für TechHome Solutions AG:</strong> Echtzeitüberwachung des Materialflusses und automatische Bestellvorgänge bei Bedarf, was eine Just-in-Time-Beschaffung unterstützt und Lagerkosten reduziert.</p>
+<p><strong>13. E-Invoicing (Elektronische Rechnungsstellung):</strong>
+- <strong>Nutzen:</strong> Elektronische Erstellung und Übermittlung von Rechnungen an Kunden oder Lieferanten.
+- <strong>Vorteil für TechHome Solutions AG:</strong> Schnelle und kostengünstige Rechnungsbearbeitung, Reduzierung von Fehlern und verbesserte Nachverfolgbarkeit der Zahlungen.</p>
+<div class="admonition info">
+<p class="admonition-title">Lizenz</p>
+<p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Der KIT PV AP2 Kurs</span> von <a xmlns:cc="http://creativecommons.org/ns#" href="https://herr-nm.github.io/MMBbS_KIT_PVAP2/" property="cc:attributionName" rel="cc:attributionURL">André Neumann</a> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>. Fragen, Hinweise etc. an neumann@mmbbs.de.</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "..", "features": [], "search": "../assets/javascripts/workers/search.f8cc74c7.min.js", "translations": {"clipboard.copied": "In Zwischenablage kopiert", "clipboard.copy": "In Zwischenablage kopieren", "search.result.more.one": "1 weiteres Suchergebnis auf dieser Seite", "search.result.more.other": "# weitere Suchergebnisse auf dieser Seite", "search.result.none": "Keine Suchergebnisse", "search.result.one": "1 Suchergebnis", "search.result.other": "# Suchergebnisse", "search.result.placeholder": "Suchbegriff eingeben", "search.result.term.missing": "Es fehlt", "select.version": "Version ausw\u00e4hlen"}}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.c8b220af.min.js"></script>
+      
+        <script src="../javascripts/mathjax.js"></script>
+      
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+    
+  </body>
+</html>
