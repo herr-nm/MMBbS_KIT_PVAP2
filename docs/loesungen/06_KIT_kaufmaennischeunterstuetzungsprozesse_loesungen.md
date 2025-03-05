@@ -422,7 +422,7 @@ erstmals alle Forderungen aus der Geschäftsbeziehung getilgt sind.*
 
 #### Aufgabenteil bb (3 Punkte)
 
-$$ \frac{56.000}{224.000} \,\cdot\, 100\,\text{\%} = 25,00\,\text{\%} $$
+$$ \frac{224.000}{56.000} \,\cdot\, 100\,\text{\%} = 400,00\,\text{\%} $$
 
 #### Aufgabenteil c
 
