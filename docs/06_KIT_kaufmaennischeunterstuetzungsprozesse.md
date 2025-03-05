@@ -428,7 +428,7 @@ Die Angebote enthalten die Begriffe "Skonto" und "Rabatt". Erläutern Sie diese 
 
 #### Aufgabenteil e (3 Punkte)
 
-Warum wäre es auch bei Inanspruchnahme eines kurzfristigen Kontokorrektkredits sinnvoll, den Skonto des Lieferanten in Anspruch zu nehmen?
+Warum wäre es auch bei Inanspruchnahme eines kurzfristigen Kontokorrentkredits sinnvoll, den Skonto des Lieferanten in Anspruch zu nehmen?
 
 ### 3. Aufgabe (30 Punkte)
 
